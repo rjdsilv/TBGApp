@@ -59,6 +59,7 @@ textarea {
 .navbar-inverse .navbar-header > a:hover {
     background-color: rgb(148, 107, 45);
     color: white;
+    font-weight: 600;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -69,4 +70,42 @@ textarea {
 .navbar-inverse .navbar-nav > li > a:hover {
     color: rgb(148, 107, 45);
     font-weight: 600;
+}
+
+.tbg-info-display {
+    margin-top: 20px;
+    border: 2px solid #5d5d5d;
+    border-radius: 5px;
+    padding: 10px
+}
+
+.tbg-info-display .row {
+    margin: 10px 0 0 0;
+    margin-top: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #e5e5e5;
+    color: #5b5b5b;
+    padding: 10px;
+}
+
+.tbg-info-no {
+    font-weight: 900;
+    color: #900000;
+}
+
+.tbg-info-yes {
+    font-weight: 900;
+    color: #009000;
+}
+
+.tbg-info-display-title {
+    border-radius: 5px;
+    background-color: rgb(148, 107, 45);
+    padding: 8px;
+    margin: 0 0 28px 0;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
 }

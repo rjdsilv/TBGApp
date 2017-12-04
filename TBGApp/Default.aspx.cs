@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Threading;
 using System.Web.UI;
 using TBGApp.Helpers;
 
@@ -16,11 +15,16 @@ namespace TBGApp
 
             if (CreateTbgDatabase() && CreateTbgTables() && CreateTbgData())
             {
+                // Avoids exception raise by thread aborting.
                 Response.Redirect("~/Questions.aspx", false);
                 Context.ApplicationInstance.CompleteRequest();
             }
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         private bool CreateTbgDatabase()
         {
             try
@@ -36,6 +40,10 @@ namespace TBGApp
             return false;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         private bool CreateTbgTables()
         {
             try
@@ -51,6 +59,10 @@ namespace TBGApp
             return false;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         private bool CreateTbgData()
         {
             return DatabaseHelper.CreateTbgData(Server.MapPath(".") + DATAFILES_PATH);

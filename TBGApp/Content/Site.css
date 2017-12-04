@@ -2,6 +2,17 @@
 body {
     padding-top: 50px;
     padding-bottom: 20px;
+    font-family: Calibri;
+}
+
+footer {
+    font-size: 15px;
+    background-color: rgb(34, 47, 91);
+    padding: 10px 0 0 0;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 /* Wrapping element */
@@ -28,4 +39,34 @@ textarea {
     .body-content {
         padding: 0;
     }
+}
+
+.navbar-inverse {
+    background-color: rgb(14, 26, 64);
+    box-shadow: 0 10px 10px;
+}
+
+.navbar-inverse .navbar-header > a {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 4px;
+    background-color: rgb(148, 107, 45);
+    font-size: 20px;
+    color: white;
+}
+
+.navbar-inverse .navbar-header > a:hover {
+    background-color: rgb(148, 107, 45);
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    font-size: 18px;
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: rgb(148, 107, 45);
+    font-weight: 600;
 }

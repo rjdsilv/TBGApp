@@ -8,6 +8,7 @@ namespace TBGApp
     public partial class _Default : Page
     {
         private static string SCRIPTS_PATH = @"\Database\Scripts\";
+        private static string DATAFILES_PATH = @"\Database\DataFiles\";
 
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -22,7 +23,7 @@ namespace TBGApp
         {
             try
             {
-                DatabaseHelper.ExecuteNonQueryFromFile(Server.MapPath(".") + SCRIPTS_PATH + "TBG_CreateDatabase.sql");
+                DatabaseHelper.ExecuteScriptFromFile(Server.MapPath(".") + SCRIPTS_PATH + "TBG_CreateDatabase.sql");
                 CreateDbStatusLabel.Text = "YES";
                 CreateDbStatusLabel.CssClass = "tbg-info-yes";
                 return true;
@@ -37,7 +38,7 @@ namespace TBGApp
         {
             try
             {
-                DatabaseHelper.ExecuteNonQueryFromFile(Server.MapPath(".") + SCRIPTS_PATH + "TBG_CreateTables.sql");
+                DatabaseHelper.ExecuteScriptFromFile(Server.MapPath(".") + SCRIPTS_PATH + "TBG_CreateTables.sql");
                 CreateTablesStatusLabel.Text = "YES";
                 CreateTablesStatusLabel.CssClass = "tbg-info-yes";
                 return true;
@@ -50,7 +51,7 @@ namespace TBGApp
 
         private bool CreateTbgData()
         {
-            return false;
+            return DatabaseHelper.CreateTbgData(Server.MapPath(".") + DATAFILES_PATH);
         }
     }
 }

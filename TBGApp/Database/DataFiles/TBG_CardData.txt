@@ -1,0 +1,5 @@
+﻿1;Isac Newton;Science;Hard
+2;Leonardo Da Vinci;Arts;Medium
+3;Pele;Sports;Hard
+4;The Big Bag Theory;Entertainment;Easy
+22;Albert Einstein;Science;Hard

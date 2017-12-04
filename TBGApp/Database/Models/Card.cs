@@ -14,7 +14,7 @@
 
         public Card(string fileLine)
         {
-            string[] fields = fileLine.Split(new char[] { ';' });
+            var fields = fileLine.Split(new char[] { ';' });
 
             Id = int.Parse(fields[ID_FIELD]);
             Name = fields[NAME_FIELD];

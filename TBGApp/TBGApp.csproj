@@ -131,6 +131,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Database\DataFiles\TBG_CardData.txt" />
+    <Content Include="Database\DataFiles\TBG_QuestionData.txt" />
     <Content Include="Database\Scripts\TBG_CreateDatabase.sql" />
     <Content Include="Database\Scripts\TBG_CreateTables.sql" />
     <Content Include="Default.aspx" />
@@ -190,7 +191,9 @@
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Database\CommandParameter.cs" />
+    <Compile Include="Database\Models\Alternative.cs" />
     <Compile Include="Database\Models\Card.cs" />
+    <Compile Include="Database\Models\Question.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

@@ -13,9 +13,11 @@ namespace TBGApp
         protected void Page_Load(object sender, EventArgs e)
         {
             Title = "TBG - Loading Application";
-            if(CreateTbgDatabase() && CreateTbgTables() && CreateTbgData())
+
+            if (CreateTbgDatabase() && CreateTbgTables() && CreateTbgData())
             {
-                Response.Redirect("~/Questions.aspx");
+                Response.Redirect("~/Questions.aspx", false);
+                Context.ApplicationInstance.CompleteRequest();
             }
         }
 

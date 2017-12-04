@@ -2,4 +2,5 @@
 2;Leonardo Da Vinci;Arts;Medium
 3;Pele;Sports;Hard
 4;The Big Bag Theory;Entertainment;Easy
+5;Galileo Galilei;Science;Medium
 22;Albert Einstein;Science;Hard

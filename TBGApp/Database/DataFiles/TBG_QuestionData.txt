@@ -1,0 +1,1 @@
+﻿1;Who is the father of the relativity theory?;Science;Medium;Albert Einstein;Isac Newton;Galileo Galilei;Nicolaus Copernicus;1

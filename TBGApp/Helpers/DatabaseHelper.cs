@@ -36,9 +36,9 @@ namespace TBGApp.Helpers
         {
             try
             {
-                return InsertCardData(basePath);
+                return InsertCardData(basePath) && InsertQuestionData(basePath);
             }
-            catch(Exception) { }
+            catch (Exception) { }
 
             return false;
         }
@@ -47,6 +47,7 @@ namespace TBGApp.Helpers
         /// 
         /// </summary>
         /// <param name="basePath"></param>
+        /// <returns></returns>
         private static bool InsertCardData(string basePath)
         {
             var cardList = DataFileReaderHelper.ReadCardData(basePath);
@@ -56,6 +57,28 @@ namespace TBGApp.Helpers
                 foreach (Card card in cardList)
                 {
                     ExecuteInsertCard(card);
+                }
+
+                return true;
+            }
+
+            return false;
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="basePath"></param>
+        /// <returns></returns>
+        private static bool InsertQuestionData(string basePath)
+        {
+            var questionList = DataFileReaderHelper.ReadQuestionData(basePath);
+
+            if (questionList.Count > 0)
+            {
+                foreach (Question question in questionList)
+                {
+                    ExecuteInsertQuestion(question);
                 }
 
                 return true;
@@ -99,6 +122,7 @@ namespace TBGApp.Helpers
                     }
 
                     cmd.ExecuteNonQuery();
+                    cmd.Parameters.Clear();
                 }
             }
         }
@@ -109,7 +133,6 @@ namespace TBGApp.Helpers
         /// <param name="card"></param>
         private static void ExecuteInsertCard(Card card)
         {
-            var paramList = new List<CommandParameter>();
             var cmdText = "use TBG " +
                           "insert into TBTBG_CARDS(" +
                           "    CARD_ID" +
@@ -123,10 +146,96 @@ namespace TBGApp.Helpers
                           ",   @Difficulty" +
                           ")";
 
-            paramList.Add(new CommandParameter("@Id", card.Id));
-            paramList.Add(new CommandParameter("@Name", card.Name));
-            paramList.Add(new CommandParameter("@Theme", card.Theme));
-            paramList.Add(new CommandParameter("@Difficulty", card.Difficulty));
+            var paramList = new List<CommandParameter>
+            {
+                new CommandParameter("@Id", card.Id),
+                new CommandParameter("@Name", card.Name),
+                new CommandParameter("@Theme", card.Theme),
+                new CommandParameter("@Difficulty", card.Difficulty)
+            };
+            ExecuteNonQuery(cmdText, paramList);
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="question"></param>
+        private static void ExecuteInsertQuestion(Question question)
+        {
+            var cmdText = "use TBG " +
+                          "insert into TBTBG_QUESTIONS(" +
+                          "    QUESTION_ID" +
+                          ",   QUESTION_DESC" +
+                          ",   QUESTION_THEME" +
+                          ",   QUESTION_DIFFICULTY" +
+                          ") values (" +
+                          "    @Id" +
+                          ",   @Description" +
+                          ",   @Theme" +
+                          ",   @Difficulty" +
+                          ")";
+
+            var paramList = new List<CommandParameter>
+            {
+                new CommandParameter("@Id", question.Id),
+                new CommandParameter("@Description", question.Description),
+                new CommandParameter("@Theme", question.Theme),
+                new CommandParameter("@Difficulty", question.Difficulty)
+            };
+            ExecuteNonQuery(cmdText, paramList);
+            ExecuteInsertAlternatives(question);
+            ExecuteInsertCardRelationship(question);
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="question"></param>
+        private static void ExecuteInsertAlternatives(Question question)
+        {
+            var cmdText = "use TBG " +
+                          "insert into TBTBG_QUESTION_ALTERNATIVES(" +
+                          "    ALTERNATIVE_DESC" +
+                          ",   ALTERNATIVE_CORRECT" +
+                          ",   ALTERNATIVE_ORDER" +
+                          ",   QUESTION_ID" +
+                          ") values (" +
+                          "    @Description" +
+                          ",   @IsCorrect" +
+                          ",   @Order" +
+                          ",   @QuestionId" +
+                          ")";
+            foreach (Alternative alternative in question.Alternatives)
+            {
+                var paramList = new List<CommandParameter>
+                {
+                    new CommandParameter("@Description", alternative.Description),
+                    new CommandParameter("@IsCorrect", alternative.IsCorrect),
+                    new CommandParameter("@Order", alternative.Order),
+                    new CommandParameter("@QuestionId", question.Id)
+                };
+                ExecuteNonQuery(cmdText, paramList);
+            }
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="question"></param>
+        private static void ExecuteInsertCardRelationship(Question question)
+        {
+            var cmdText = "use TBG " +
+                          "insert into TBTBG_QUESTION_CARD_REL " +
+                          "    select CARD_ID, " + question.Id + 
+                          "      from TBTBG_CARDS" +
+                          "     where CARD_THEME      = @Theme" +
+                          "       and CARD_DIFFICULTY = @Difficulty";
+
+            var paramList = new List<CommandParameter>
+            {
+                new CommandParameter("@Theme", question.Theme),
+                new CommandParameter("@Difficulty", question.Difficulty)
+            };
             ExecuteNonQuery(cmdText, paramList);
         }
     }

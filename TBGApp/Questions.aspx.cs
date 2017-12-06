@@ -13,6 +13,9 @@ namespace TBGApp
 
         protected void RetrieveQuestionButton_Click(object sender, EventArgs e)
         {
+            // Disables the button.
+            RetrieveQuestionButton.Enabled = false;
+
             Question question;
             Card card;
             DatabaseHelper.RetrieveRandomQuestionByCardId(int.Parse(CardNumberTextBox.Text), out question, out card);

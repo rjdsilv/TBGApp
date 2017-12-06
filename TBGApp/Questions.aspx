@@ -50,7 +50,7 @@
             </div>
             <div class="tbg-question">
                 <div class="col-md-12">
-                    <b><asp:Label ID="QuestionLabelText" Text="QUESTION" CssClass="tbg-card-attribute" style="margin: -20px" runat="server" /></b>
+                    <b><asp:Label ID="QuestionLabelText" Text="QUESTION" CssClass="tbg-card-attribute" style="margin: -18px" runat="server" /></b>
                 </div>
                 <br />
                 <div class="col-md-12 tbg-question-text">
@@ -89,6 +89,7 @@
                     var correctAlternative = <%= Session["CorrectAlternative"] %>;
                     var correctAlternativeId = "#divAlternative0" + correctAlternative;
                     $(correctAlternativeId).addClass("tbg-correct-alternative");
+                    $("#MainContent_RetrieveQuestionButton").removeAttr("disabled");
                 }
 
                 clearTimeout(timer);

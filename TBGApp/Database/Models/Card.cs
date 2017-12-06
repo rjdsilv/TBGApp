@@ -12,6 +12,11 @@
         public string Theme { get; set; }
         public string Difficulty { get; set; }
 
+        public Card()
+        {
+
+        }
+
         public Card(string fileLine)
         {
             var fields = fileLine.Split(new char[] { ';' });

@@ -20,6 +20,8 @@ namespace TBGApp.Database.Models
         public string Difficulty { get; set; }
         public List<Alternative> Alternatives { get; set; }
 
+        public Question() { }
+
         public Question(string fileLine)
         {
             var fields = fileLine.Split(new char[] { ';' });

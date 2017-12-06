@@ -11,7 +11,7 @@ namespace TBGApp
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            Title = "TBG - Loading Application";
+            Title = "Loading Application";
 
             if (CreateTbgDatabase() && CreateTbgTables() && CreateTbgData())
             {
@@ -34,7 +34,7 @@ namespace TBGApp
                 CreateDbStatusLabel.CssClass = "tbg-info-yes";
                 return true;
             }
-            catch (Exception ex)
+            catch (Exception)
             { }
 
             return false;
@@ -53,7 +53,7 @@ namespace TBGApp
                 CreateTablesStatusLabel.CssClass = "tbg-info-yes";
                 return true;
             }
-            catch (Exception ex)
+            catch (Exception)
             { }
 
             return false;

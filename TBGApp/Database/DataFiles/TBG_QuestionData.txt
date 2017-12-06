@@ -1,1 +1,2 @@
-﻿1;Who is the father of the relativity theory?;Science;Medium;Albert Einstein;Isac Newton;Galileo Galilei;Nicolaus Copernicus;1
+﻿1;Who is the father of the theory of relativity?;Science;Medium;Albert Einstein;Isac Newton;Galileo Galilei;Nicolaus Copernicus;1
+2;On the periodic table, in what order the elements are arranged?;Science;Medium;Number of Eletrons;Number of Neutrons;Atomic Number;Randomically;3

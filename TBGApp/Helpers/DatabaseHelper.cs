@@ -46,6 +46,90 @@ namespace TBGApp.Helpers
         /// <summary>
         /// 
         /// </summary>
+        /// <param name="cardId"></param>
+        /// <returns></returns>
+        public static void RetrieveRandomQuestionByCardId(int cardId, out Question question, out Card card)
+        {
+            var cmdText = "use TBG " +
+                          "select     ques.QUESTION_ID " +
+                          ",          ques.QUESTION_DESC " +
+                          ",          ques.QUESTION_THEME " +
+                          ",          ques.QUESTION_DIFFICULTY " +
+                          ",          alte.ALTERNATIVE_ID " +
+                          ",          alte.ALTERNATIVE_DESC " +
+                          ",          alte.ALTERNATIVE_ORDER " +
+                          ",          alte.ALTERNATIVE_CORRECT " +
+                          ",          ques.CARD_NAME " +
+                          "from       TBTBG_QUESTION_ALTERNATIVES alte " +
+                          "inner join ( " +
+                          "    select     top 1 " +
+                          "               ques.QUESTION_ID " +
+                          "    ,          ques.QUESTION_DESC " +
+                          "    ,          ques.QUESTION_THEME " +
+                          "    ,          ques.QUESTION_DIFFICULTY " +
+                          "    ,          card.CARD_NAME " +
+                          "    from       TBTBG_QUESTIONS         ques " +
+                          "    inner join TBTBG_QUESTION_CARD_REL rela " +
+                          "    on         rela.QUESTION_ID        = ques.QUESTION_ID " +
+                          "    inner join TBTBG_CARDS             card " +
+                          "    on         card.CARD_ID            = rela.CARD_ID " +
+                          "    where      card.CARD_ID            = @CardId " +
+                          "    order by   NEWID() " +
+                          ")                                      ques " +
+                          "on         ques.QUESTION_ID = alte.QUESTION_ID " +
+                          "order by   alte.ALTERNATIVE_ORDER";
+            question = new Question();
+            card = new Card();
+            using (SqlConnection cnn = new SqlConnection(CNN_STR))
+            {
+                using (SqlCommand cmd = new SqlCommand(cmdText, cnn))
+                {
+                    cnn.Open();
+                    cmd.Parameters.AddWithValue("@CardId", cardId);
+
+                    using ( SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (reader.HasRows)
+                        {
+                            bool updateQuestionAndCard = true;
+
+                            while (reader.Read())
+                            {
+                                if (updateQuestionAndCard)
+                                {
+                                    // Setting the card values.
+                                    card.Id = cardId;
+                                    card.Name = reader.GetString(reader.GetOrdinal("CARD_NAME"));
+                                    card.Theme = reader.GetString(reader.GetOrdinal("QUESTION_THEME"));
+                                    card.Difficulty = reader.GetString(reader.GetOrdinal("QUESTION_DIFFICULTY"));
+
+                                    // Setting the question values.
+                                    question.Id = reader.GetInt32(reader.GetOrdinal("QUESTION_ID"));
+                                    question.Description = reader.GetString(reader.GetOrdinal("QUESTION_DESC"));
+                                    question.Theme = reader.GetString(reader.GetOrdinal("QUESTION_THEME"));
+                                    question.Difficulty = reader.GetString(reader.GetOrdinal("QUESTION_DIFFICULTY"));
+                                    question.Alternatives = new List<Alternative>();
+                                        updateQuestionAndCard = false;
+                                }
+
+                                question.Alternatives.Add(
+                                    new Alternative(
+                                        reader.GetInt32(reader.GetOrdinal("ALTERNATIVE_ID")),
+                                        reader.GetString(reader.GetOrdinal("ALTERNATIVE_DESC")),
+                                        reader.GetInt32(reader.GetOrdinal("ALTERNATIVE_ORDER")),
+                                        reader.GetBoolean(reader.GetOrdinal("ALTERNATIVE_CORRECT"))
+                                    )
+                                );
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
         /// <param name="basePath"></param>
         /// <returns></returns>
         private static bool InsertCardData(string basePath)

@@ -71,7 +71,7 @@
             </div>
             <br />
             <div class="tbg-timer">
-                <span id="timerText">00:30</span>
+                <span id="timerText">00:15</span>
             </div>
         </div>
     </asp:Panel>

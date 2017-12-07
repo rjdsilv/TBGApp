@@ -13,9 +13,6 @@ namespace TBGApp
 
         protected void RetrieveQuestionButton_Click(object sender, EventArgs e)
         {
-            // Disables the button.
-            RetrieveQuestionButton.Enabled = false;
-
             Question question;
             Card card;
             DatabaseHelper.RetrieveRandomQuestionByCardId(int.Parse(CardNumberTextBox.Text), out question, out card);
@@ -26,6 +23,9 @@ namespace TBGApp
             {
                 QuestionPanel.CssClass = "row tbg-visible";
                 InvalidCardPanel.CssClass = "row tbg-hidden";
+
+                // Disables the button.
+                RetrieveQuestionButton.Enabled = false;
 
                 // Setting the card properties on screen.
                 CardNameLabel.Text = card.Name;
@@ -50,6 +50,10 @@ namespace TBGApp
             }
             else
             {
+                // Enables the button.
+                RetrieveQuestionButton.Enabled = true;
+
+                // Shows the card error message
                 QuestionPanel.CssClass = "row tbg-hidden";
                 InvalidCardPanel.CssClass = "row tbg-visible";
                 InvalidCardLabel.Text = string.Format("The Card {0} is invalid!!!", CardNumberTextBox.Text);

@@ -64,7 +64,7 @@
 
         <footer>
             <div class="container">
-                <p>&copy; <%: DateTime.Now.Year %> - TBG - Developed by Rodrigo da Silva</p>
+                <p>&copy; <%: DateTime.Now.Year %> - TBG - The Trivia Board Game Application - Developed by Rodrigo da Silva</p>
             </div>
         </footer>
 

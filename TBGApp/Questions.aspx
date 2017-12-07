@@ -78,18 +78,22 @@
 
     <script>
         var timer   = 0;
-        var seconds = 30;
+        var seconds = 15;
 
-        for (var i = 1000; i <= 32000; i += 1000) {
+        function revealCorrectAlternative() {
+            var correctAlternative = <%= Session["CorrectAlternative"] %>;
+            var correctAlternativeId = "#divAlternative0" + correctAlternative;
+            $(correctAlternativeId).addClass("tbg-correct-alternative");
+            $("#MainContent_RetrieveQuestionButton").removeAttr("disabled");
+        }
+
+        for (var i = 1000; i <= 17000; i += 1000) {
             timer = setTimeout(function () {
                 seconds--;
                 if (seconds >= 0) {
                     $("#timerText").text("00:" + ("0" + seconds).slice(-2));
                 } else {
-                    var correctAlternative = <%= Session["CorrectAlternative"] %>;
-                    var correctAlternativeId = "#divAlternative0" + correctAlternative;
-                    $(correctAlternativeId).addClass("tbg-correct-alternative");
-                    $("#MainContent_RetrieveQuestionButton").removeAttr("disabled");
+                    revealCorrectAlternative();
                 }
 
                 clearTimeout(timer);

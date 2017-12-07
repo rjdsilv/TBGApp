@@ -1,6 +1,32 @@
-﻿1;Isac Newton;Science;Hard
-2;Leonardo Da Vinci;Arts;Medium
-3;Pele;Sports;Hard
-4;The Big Bag Theory;Entertainment;Easy
-5;Galileo Galilei;Science;Medium
-22;Albert Einstein;Science;Hard
+﻿1;Charles Darwin;Science;Easy
+2;Michael Faraday;Science;Easy
+3;Galileo Galilei;Science;Medium
+4;Stephen Hawking;Science;Medium
+5;Archimedes;Science;Medium
+6;Isac Newton;Science;Hard
+7;Albert Einstein;Science;Hard
+8;Nikola Tesla;Science;Hard
+9;Pele;Sports;Easy
+10;Babe Ruth;Sports;Easy
+11;Wayne Gretzky;Sports;Medium
+12;Tom Brady;Sports;Medium
+13;Michael Jordan;Sports;Medium
+14;Zinedine Zidane;Sports;Hard
+15;Magic Johnson;Sports;Hard
+16;Steve Yzerman;Sports;Hard
+17;The Big Bang Theory;Entertainment;Easy
+18;Super Mario Bros.;Entertainment;Easy
+19;Matrix;Entertainment;Medium
+20;The Simpsons;Entertainment;Medium
+21;Half Life 2;Entertainment;Medium
+22;Pulp Fiction;Entertainment;Hard
+23;Halo;Entertainment;Hard
+24;South Park;Entertainment;Hard
+25;Salvador Dali;Arts;Easy
+26;Pablo Picasso;Arts;Easy
+27;Michelangelo;Arts;Medium
+28;Vincent van Gogh;Arts;Medium
+29;Claude Monet;Arts;Medium
+30;Leonardo da Vinci;Arts;Hard
+31;Rembrandt;Arts;Hard
+32;Sandro Botticelli;Arts;Hard

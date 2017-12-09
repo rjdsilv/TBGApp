@@ -6,7 +6,7 @@
 6;Isac Newton;Science;Hard
 7;Albert Einstein;Science;Hard
 8;Nikola Tesla;Science;Hard
-9;Pele;Sports;Easy
+9;Pelé;Sports;Easy
 10;Babe Ruth;Sports;Easy
 11;Wayne Gretzky;Sports;Medium
 12;Tom Brady;Sports;Medium

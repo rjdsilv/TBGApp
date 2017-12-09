@@ -24,7 +24,7 @@
 1024;What weather tool is used to measure air pressure?;Science;Easy;Barometer;Anemometer;Seismometer;Thermometer;1
 1025;What does nimbus mean when referring to clouds?;Science;Easy;High pressure cloud;Dark cloud with precipitation;A cloud that is changing shape;Nimbus refers to winds, not clouds;2
 1026;Which travels faster in a lightning storm?;Science;Easy;Thunder;Lightning and Thunder travels at the same speed;Lightning;None of the above;3
-1027;The appearance of unusually warm water off the pacific coast of Peru and Ecuador is called:;Science;Easy;La Ni¤a;Global Warming;El Ni¤o;El Guapo;3
+1027;The appearance of unusually warm water off the pacific coast of Peru and Ecuador is called:;Science;Easy;La NiÏa;Global Warming;El NiÏo;El Guapo;3
 1028;How does the energy change when you change from ice to water?;Science;Easy;Increases;Doesn't change;Decreases;Explodes;1
 1029;Which form of the sun?s energy provides solar power?;Science;Easy;Light;Heat;Both;Neither;1
 1030;When heat is transferred through a solid object it is:;Science;Easy;Convection;Radiation;Conduction;All the above;3
@@ -158,3 +158,483 @@
 1458;What is the product of a body's mass and its linear velocity?;Science;Hard;Momentum;Acceleration;Kinect Energy;Force;1
 1459;Which scientist formulated the law of universal gravitation?;Science;Hard;Johannes Kepler;Galileo Galilei;Isac Newton;Albert Einstein;3
 1460;Brass is an alloy of which two metals?;Science;Hard;Copper and zinc;Iron and zinc;Cooper and Titanium;Aluminum and copper;1
+2001;What is the country which won titles of the FIFA World Cup?;Sports;Easy;Italy;Germany;Brazil;France;3
+2002;What is the name of the most known brazilian Soccer Player?;Sports;Easy;Maradona;Pele;Messi;Cristiano Ronaldo;2
+2003;What is the name of one of the best basketball player of all times?;Sports;Easy;Michael Jordan;Michael Jackson;Michael J. Fox;Michael Schumacher;1
+2004;Crawl, backstroke and butterfly are different methods in which sport?;Sports;Easy;Soccer;Hockey;Baseball;Swimming;4
+2005;What is the object hit by the players in ice hockey called?;Sports;Easy;Ball;Puck;Net;Stick;2
+2006;How many holes are there in a full round of golf?;Sports;Easy;18;17;16;15;1
+2007;What is professional wrestler, John Cena, catch phrase?;Sports;Easy;Come at me!;Try me!;You can't see me!;I'm the best!;3
+2008;What is the FIBA regulation height for a basketball hoop?;Sports;Easy;9 feet;10 feet;11 feet;12 feet;2
+2009;What city hosted the 2012 Summer Olympics?;Sports;Easy;Rio de Janeiro;Berlim;Beijing;London;4
+2010;What year was the first Super Bowl played?;Sports;Easy;1910;1967;1991;2003;2
+2011;How many soccer players should be on the field at the same time?;Sports;Easy;10;20;11;22;4
+2012;The Kangaroo Hoppet is a long distance cross-country skiing race that is held in which county?;Sports;Easy;Australia;United States;Canada;England;1
+2013;What is the highest score possible in 10 pin bowling?;Sports;Easy;100;200;300;400;3
+2014;A shuttlecock is used in what sport?;Sports;Easy;Tenis;Badminton;Basketball;Baseball;2
+2015;What country was host to the 1930 inaugural FIFA Football World Cup?;Sports;Easy;Brazil;Paraguay;Argentina;Uruguay;4
+2016;What NFL Quarterback has been in the most Super Bowls?;Sports;Easy;Tom Brady;Joe Montana;Terry Bradshaw;Brett Favre;1
+2017;"""The Ashes"" is the most important trophy in what sport?";Sports;Easy;Hockey;Soccer;Crickets;Baseball;3
+2018;Hitting 406 in 1941, who was Major League Baseball's last 400 hitter?;Sports;Easy;Ty Cobb;Ted Williams;Bill Terry;Rogers Hornsby;2
+2019;What team eliminated Brazil by the historic 7 x 1 score in 2014 FIFA World Cup?;Sports;Easy;Italy;France;Argentina;Germany;4
+2020;What team was the champion on 2014 FIFA World Cup?;Sports;Easy;Argentina;Italy;Germany;Brazil;3
+2021;Who was the NBA MVP on the 2016-2017 Season?;Sports;Easy;Russel Westbrook;Kevin Durant;Stephen Curry;Le Bron James;1
+2022;What sport can improve your posture?;Sports;Easy;Hockey;Horseback riding;Football;Volleyball;2
+2023;Which national team won the male Volleyball Olympics Title in 2016 in Rio de Janeiro?;Sports;Easy;United States;Italy;Russia;Brazil;4
+2024;In which sport are the terms ?stale fish? and ?mulekick? used?;Sports;Easy;Snowboarding;Tennis;Soccer;Volleyball;1
+2025;Which is the only country to have played in every FIFA World Cup?;Sports;Easy;Germany;Italy;Brazil;Argentina;3
+2026;Hockey Player Wayne Gretzky played for what team in the 1980's?;Sports;Easy;Edmonton Oilers;Toronto Maple Leafs;Pittsburgh Penguins;Chicago Blackhawks;1
+2027;Whose ear did Mike Tyson bite off in 1997?;Sports;Easy;Muhammad Ali;George Foreman;Evander Holyfield;Lennox Lewis;3
+2028;What was the highest number of games played in a World Series?;Sports;Easy;Six;Seven;Five;Four;2
+2029;In American football, how many points is a touchdown worth?;Sports;Easy;Three;Four;Five;Six;4
+2030;In the game of cricket which bird name means scoring no runs?;Sports;Easy;Turkey;Duck;Chicken;Owl;2
+2031;How many teams are there in the American National Football League?;Sports;Easy;30;31;32;33;3
+2032;What sport used the term ?home run? long before baseball?;Sports;Easy;Cricket;Football;Hockey;Golf;1
+2033;Which country dominates Olympics basketball like no one else?;Sports;Easy;Spain;United States;Canada;Brazil;2
+2034;What number lies between 5 and 9 on a British dart board?;Sports;Easy;7;8;10;12;4
+2035;Before the NFL mandated the use of helmets in 1943, who was the last player not to use one?;Sports;Easy;Joe Montana;Tom Brady;Dick Plasman;Brett Favre;3
+2036;How many players, including the goaltender, make up an ice hockey team?;Sports;Easy;Seven;Six;Five;Four;2
+2037;Wladimir Klitschko is a champion boxer from which country?;Sports;Easy;Russia;Australia;Ukraine;New Zeland;3
+2038;What team was NBA champion on 2016-2017 season;Sports;Easy;Golden State Warriors;Cleveland Cavaliers;Miami Heat;Los Angeles Lakers;1
+2039;Which national team won the Cricket World Cup in 2011?;Sports;Easy;Australia;Pakistan;Sri Lanka;India;4
+2040;Which team won the MLB in 2017?;Sports;Easy;Chicago Cubs;Houston Astros;New York Yankees;Boston Red Sox;2
+2201;What are the team with more FIFA World Cup Titles?;Sports;Medium;Brazil, Italy, and Germany;Brazil, Germany, and Argentina;Italy, Germany, and France;Argentina, France, and Spain;1
+2202;Who was the first golfer to win the Masters Tournament two years in a row?;Sports;Medium;Tiger Woods;Jack Nicklaus;Arnold Palmer;Tom Watson;2
+2203;Bobby Fischer is considered by many to be the greatest player of all time in which game?;Sports;Medium;Bridge;Checkers;Poker;Chess;4
+2204;"Anthony Jerome ""Spud"" Webb retired from what professional sport in 1997?";Sports;Medium;Football;Soccer;Basketball;Baseball;3
+2205;In what year did the Houston Texans join the NFL?;Sports;Medium;2000;2002;2004;2005;2
+2206;What football team had the biggest scoring comeback in the history of the Super Bowl?;Sports;Medium;New England Patriots;Dallas Cowboys;New York Giants;Green Bay Packers;1
+2207;Who is the longest reigning heavyweight boxing champion with 25 successful defenses?;Sports;Medium;Mike Tyson;Evander Holyfield;Muhammad Ali;Joe Louis;4
+2208;Which tennis player has won the most men's Grand Slam titles?;Sports;Medium;Rafael Nadal;Novak Djokovic;Roger Federer;Andre Agassi;3
+2209;Who is the only athlete ever to play in a Super Bowl and a World Series?;Sports;Medium;Joe Montana;Deion Sanders;Ryan Fowler;Conrad Goode;2
+2210;According to NBA rules how long does a player have after catching the ball to shoot a free throw?;Sports;Medium;10 seconds;5 second;20 seconds;15 seconds;1
+2211;What team won the first FIFA World Cup in 1930?;Sports;Medium;Argentina;Brazil;Uruguay;Italy;3
+2212;The Stanley Cup is a championship trophy awarded annually to the playoff winner in what sport?;Sports;Medium;Hockey;Basketball;Baseball;Cricket;1
+2213;Which five-times Grand Slam tennis champion tested postive for a banned substance at the 2016 Australian Open?;Sports;Medium;Roger Federer;Maria Sharapova;Rafael Nadal;Serena Williams;2
+2214;Shaquille Rashaun O'Neal retired in 2011 from what sport?;Sports;Medium;Tennis;Soccer;Baseball;Basketball;4
+2215;The Grand Slam tournaments are the four most import annual events in which two sports?;Sports;Medium;Volleyball and Soccer;Tennis and Baseball;Golf and Tennis;Tennis and Basketball;3
+2216;El Clÿsico is the name given to football (soccer) matches between which two teams?;Sports;Medium;Milan and Inter Milan;Manchester United and Liverpool;Bayern Muenchen and Borussia Dortmund;Real Madrid and Barcelona;4
+2217;Which hockey player has won the most Stanley Cups with 11 wins?;Sports;Medium;Henri Richard;Mike Bossy;Paul Coffey;Wayne Gretzky;1
+2218;Which team won the 2016 Super Bowl?;Sports;Medium;New England Patriots;Denver Broncos;Seattle Seahawks;New York Giants;2
+2219;Where did the sport of curling originate?;Sports;Medium;Sweden;Norway;Scotland;Ireland;3
+2220;In what country did table tennis originate?;Sports;Medium;China;Australia;Japan;England;4
+2221;How many Super Bowl Rings did Troy Aikman win?;Sports;Medium;3;4;5;6;1
+2222;In what year did the Houston Texans become a team in the US National Football League?;Sports;Medium;2001;2002;2003;2004;2
+2223;How much money is a US Olympic gold medalist awarded?;Sports;Medium;$15,000;$20,000;$25,000;$30,000;3
+2224;What type of animal is the mascot for the Oakland Athletics baseball team?;Sports;Medium;Fox;Bird;Shark;Elephant;4
+2225;In which sport does the bowler deliver the ball to the batsman?;Sports;Medium;Baseball;Cricket;Hockey;Badminton;2
+2226;Which athlete has won the most Olympic medals?;Sports;Medium;Michael Phelps;Larisa Latynina;Nikolai Andrianov;Boris Shakhlin;1
+2227;How Olympic Medals did Michael Phelps won?;Sports;Medium;26;27;28;29;3
+2228;Lambeau Field is the home field of which National Football League team?;Sports;Medium;San Francisco 49ers;Pittsburgh Steelers;New York Giants;Green Bay Packers;4
+2229;When Was the Ryder Cup First Played?;Sports;Medium;1958;1927;1986;1918;2
+2230;What age was Rory McIlroy when he won hes first major?;Sports;Medium;22;23;24;25;1
+2231;How many majors has Jack Nicklaus won? ;Sports;Medium;15;16;17;18;4
+2232;What national team won the first Rugby World Cup?;Sports;Medium;New Zeland;Australia;South Africa;England;2
+2233;Which Rugby team is known as Springboks;Sports;Medium;South Africa;England;Ireland;Australia;1
+2234;Where the 2018 FIFA World Cup will be hosted?;Sports;Medium;Brazil;Russia;United Arab Emirates;Spain;2
+2235;Which nation won the 1994 FIFA World Cup?;Sports;Medium;Argentina;Italy;Brazil;France;3
+2236;What NBA team became the first to defeat the Boston Celtics in 12 straight games, in 1995? ;Sports;Medium;New York Knicks;Chicago Bulls;Los Angeles Lakers;Miami Heat;1
+2237;Who was the first hoopster to win eight NBA scoring titles? ;Sports;Medium;Le Bron James;Shaquille O'Neal;Magic Jonhson;Michael Jordan;4
+2238;As at 2010 how many majors has Tiger Woods won?;Sports;Medium;13;14;15;16;2
+2239;What country is Gary Player from?;Sports;Medium;Canada;United States;South Africa;Australia;3
+2240;Who scored a record 10 hat tricks in an NHL season?;Sports;Medium;Jaromir J gr;Wayne Gretzky;Mario Lemieux;Joe Thomton;2
+2241;Who was the first defenseman to win the NHL point-scoring title?;Sports;Medium;Bobby Orr;Lawrence Taylor;Joe Greene;Dick Butkus;1
+2242;What NHL team hoisted 24 Stanley Cup flags before its first game in Molson Center?;Sports;Medium;Winnipeg Jets;Vancouver Canucks;Toronto Maple Leafs;The Montreal Canadians;4
+2243;What infraction is a hockey referee calling if he waves his hand below his knees?;Sports;Medium;Hooking;Kneeing;Tripping;High-sticking;3
+2244;How many Gold Medals did Canada win in the 2010 Winter Olympics? ;Sports;Medium;13;14;15;16;2
+2245;What sport did Margaret Abbott play to become the first U.S. woman to win Olympic gold, in 1900?;Sports;Medium;Tennis;Volleyball;Golf;Long Jump;3
+2246;How many football teams play in the Big Ten Conference?;Sports;Medium;13;10;12;11;4
+2247;Which city has hosted the NFL Super Bowl more than any other city in the United States?;Sports;Medium;Miami;New York;Seattle;Tennessee;1
+2248;How high is the top of a badminton net above the court?;Sports;Medium;4 feet;6 feet;5 feet;7 feet;3
+2249;India entered World Test Cricket in which year?;Sports;Medium;1925;1932;1940;1960;2
+2250;What does In Ranji Trophy teams represent?;Sports;Medium;Provinces;Countries;Cities;Regions;4
+2251;Where did Cricket in India originate?;Sports;Medium;Agra;Hyderabad;Bombay;New Delhi;3
+2252;When was Man Utd FC founded?;Sports;Medium;1878;1888;1898;1908;1
+2253;What colour is Man Utd FC home jersey?;Sports;Medium;Blue;White;Red;Yellow;3
+2254;What two NBA players won the MVP trophy three times each from 1986 through 1992?;Sports;Medium;Magic Johnson and Larry Bird;Michael Jordan and Larry Bird;Larry Bird and Kareem Abdul-Jabbar;Magic Johnson and Michael Jordan;4
+2255;In 2004, the Olympic Games 'came home' to which city?;Sports;Medium;Paris;Athens;London;Barcelona;2
+2256;What is the name given for one stroke over par for a single hole in golf?;Sports;Medium;A Bogey;An Overpar;A Bird;None of the above;1
+2257;Which sport is Silverstone most associated with?;Sports;Medium;Rugby;Soccer;Motor Racing;Swimming;3
+2258;How many players are there in a Rugby League team?;Sports;Medium;11;12;14;13;4
+2259;In Snooker what colour is the ball that has a value of three points?;Sports;Medium;Yellow;Green;Brown;Blue;2
+2260;In what sport would you find a Bagel?;Sports;Medium;Tennis;Badminton;Cricket;Snooker;1
+2401;Barry Bonds currently holds the Major League Baseball home run record with how many home runs?;Sports;Hard;762;854;645;963;1
+2402;Which country won the 2012 UEFA European Championship?;Sports;Hard;Germany;Italy;Spain;England;3
+2403;Which team did the Chicago Cubs play in the 1945 World Series?;Sports;Hard;New York Yankees;Detroit Tigers;Boston Red Sox;San Francisco Giants;2
+2404;Who was the first pinch hitter to score a home run in World Series play?;Sports;Hard;Billy Hamilton;Troy Tulowitzki;Derek Jeter;Yogi Berra;4
+2405;"In what year was the ""Perfect 10"" scoring system in gymnastics abandoned?";Sports;Hard;2004;2005;2006;2007;3
+2406;Tiger Woods became a professional golfer in what year?;Sports;Hard;1994;1996;1998;1999;2
+2407;The Walker Law passed in 1920 in New York was a law regulating which sport?;Sports;Hard;Boxing;Baseball;Football;Hockey;1
+2408;Who was the shortest player ever to play in the NBA?;Sports;Hard;Gerg Grant;Earl Boykins;Monte Towe;Tyrone Bogues;4
+2409;Who was the last professional hockey player to play without a helmet?;Sports;Hard;Greg Smyth;Bobby Clarke;Craig MacTavish;Guy Lafleur;3
+2410;Which basketball team did Michael Jordan play for in college?;Sports;Hard;Duke Blue Devils;Chapel Hill;Kansas Jayhawks;Michigan State Spartans;2
+2411;In 1998, what Major League Baseball player broke the single season home run record previously set by Roger Maris? ;Sports;Hard;Mark McGwire;Barry Bonds;Roger Clemens;Bryce Harper;1
+2412;In what year was the first modern Olympic Games held?;Sports;Hard;1890;1896;1900;1906;2
+2413;Who was the first black baseball player to play in the major leagues?;Sports;Hard;Jackie Robinson;Josh Gibson;Row Campanella;Moses Fleetwood Walker;4
+2414;How many of Carl Lewis' Olympic gold medals were won in long jump competitions?;Sports;Hard;2;3;4;5;2
+2415;Which year did the New Zeland's Rugby national team won their 1st Rugby World Cup?;Sports;Hard;1987;1991;1995;1999;1
+2416;Which English football club play their home games at Ewood park?;Sports;Hard;Everton F. C.;Leicester City F. C.;Blackburn Rovers F. C.;Newcastle United F. C.;3
+2417;Which English football club won the FA Cup in 2009?;Sports;Hard;Liverpool;Manchester City;Arsenal;Chelsea;4
+2418;What nationality is football referee Massimo Busacca? ;Sports;Hard;German;Swiss;French;Spanish;2
+2419;Who was the last Boston Celtics coach to lead the team to two straight NBA titles? ;Sports;Hard;Bill Russel;Bill Fitch;Red Auerbach;K. C. Jones;1
+2420;In 2011 Rory McIlroy won the US Open, what score did he finish? ;Sports;Hard;15 under par;18 under par;16 under par;17 under par;3
+2421;Who's the first player to captain two different NHL championship teams?;Sports;Hard;Mark Messier;Dustin Brown;Joe Sakic;Ted Lindsay;1
+2422;Which European city hosted the first Olympic Games in which women were allowed to participate?;Sports;Hard;London;Paris;Berlin;Barcelona;2
+2423;Boss, Flex, Vane and Nock are terms used in which sport?;Sports;Hard;Cricket;Table Tennis;Archery;Hockey;3
+2424;Which two NFL teams played in the very first Super Bowl game? ;Sports;Hard;Atlanta Falcons and New York Jersey;Miami Dolphins and Washington Redskins;Tennessee Titans and Arizona Cardinals;Green Bay Packers and Kansas City Chiefs;4
+2425;What pro football franchise did Tim Mara buy in 1925 for $500?;Sports;Hard;Denver Broncos;The New York Giants;Dallas Cowboys;Seattle Seahawks;2
+2426;Which two cities have ballparks honoring Number 44 above the outfield fence?;Sports;Hard;Atlanta and Milwaukee;Los Angeles and Houston;Cleveland and San Francisco;Washington and Texa;1
+2427;In which winter sport is Acro one of the events?;Sports;Hard;Freestyle Skating;Freestyle Snowboarding;Freestyle Skiing;Freestyle BMX;3
+2428;In which sport is the standard weight of a ball between 23 and 25 grams?;Sports;Hard;Table Tenis;Baseball;Golf;Squash;4
+2429;What position did Cal Ripkin Jr., start at for the first time since 1982, in a July, 1996 game?;Sports;Hard;2nd Base;3rd Base;1st Base;Outfielder;2
+2430;On a darts board, what number is diagonally opposite 19?;Sports;Hard;1;14;5;11;1
+2431;What nationality is jockey Frankie Dettori?;Sports;Hard;Spanish;Brazilian;French;Italian;4
+2432;At which racecourse is the Grand National run?;Sports;Hard;Silverstone;Indianapolis;Aintree;Pimlico Racecourse in Baltimore, Maryland.;3
+2433;On a standard dart board, what is the lowest number that cannot be scored with a single dart?;Sports;Hard;23;13;11;17;1
+2434;Cy Young won his 500th career game against which team?;Sports;Hard;Texas Rangers;Washington Senators;New York Giants;New York Mets;2
+2435;Which of the following Major Leaguers set a record for being the oldest player to hit a home run in a game?;Sports;Hard;Bartolo Colon;R.A. Dickey;R.A. Dickey;Jack Quinn;4
+2436;Who did Man Utd beat in the 2008 UEFA Champions League Final?;Sports;Hard;Real Madrid;Barcelona;Chelsea;Liverpool;3
+2437;What major leaguer hit 20 or more homers in 20 seasons?;Sports;Hard;Hank Aaron;Willie Mays;Babe Ruth;Alex Rodriguez;1
+2438;What year did England win the World Cup?;Sports;Hard;1970;1966;1982;1962;2
+2439;Who has scored the most goals in world cup history?;Sports;Hard;Messi;Maradona;Ronaldo Phenomene;Miroslav Klose;4
+2440;What team has won the most English FA Cups?;Sports;Hard;Chelsea;Arsenal;Manchester United;Liverpool;3
+2441;In which years Argentina won their two FIFA World Cups?;Sports;Hard;1978 and 1986;1934 and 1974;1986 and 2006;1962 and 1974;1
+2442;How many times did Liverpool win the European Cup/UEFA Champions League?;Sports;Hard;7;3;5;6;3
+2443;What was Fanny Blankers-Koen nickname?;Sports;Hard;The Flying Dutchwoman;The Flying Housewife;The Flying Fortress;The Flying Filly;2
+2444;In 1996, Michael Johnson ran what time in the 200 m at the US Olympic Trials?;Sports;Hard;21.66 s;20.66 s;18.66 s;19.66 s;4
+2445;What are the dimensions of an entire NFL football field including the endzones?;Sports;Hard;120 yards long by 53 1/3 yards wide;100 yards long by 53 yards wide;110 yards long by 53 1/3 yards wide;100 yards long by 53 yards wide;1
+2446;In American Football, which type of penalty can results in the most amount of penalty yards?;Sports;Hard;Kickoff out of bounds;Unsportsman like conduct;Intentional grounding;Illegal Block in the back;3
+2447;In an I-formation what is the alignment of the running backs?;Sports;Hard;The Half back and fullbacks are spread apart at even depths;The fullback is half way between the quarterback and the halfback directly behind center;Both halfback and fullback are on each side of the quarterback directly behind the guards;The halfback is half way between the quarterback and the fullback directly behind center;2
+2448;What are the dimensions of an NFL goal post?;Sports;Hard;Crossbar is 10 feet high and the uprights are 21 feet, 6 inches wide and 25 feet tall;Crossbar is 12 feet high and the uprights are 20 feet, 6 inches wide and 30 feet tall;Crossbar is 10 feet high and the uprights are 18 feet, 6 inches wide and 30 feet tall;Crossbar is 15 feet high and the uprights are 16 feet, 6 inches wide and 20 feet tall;3
+2449;What is the highest possible QB rating in the NFL?;Sports;Hard;158.3;163;135.8;100;1
+2450;Where was the 1991 Rugby World Cup held?;Sports;Hard;France;South Africa;Australia and New Zealand;Great Britain, Ireland and France;4
+2451;Which boxer has the longest reign as welterweight champion?;Sports;Hard;Ray Robinson;Felix Trinidad;Julio Cesar Chavez;Ray Leonard;2
+2452;Who was the first boxer ever to recieve a million dollar purse?;Sports;Hard;Joe Louis;Rocky Marciano;Sonny Liston;George Foreman;3
+2453;Who did Erik Morales defeat to become world champion for the first time?;Sports;Hard;Daniel Zaragoza;Wayne McCullough;Junior Jones;Marco Antonio Barrera;1
+2454;Which boxer has the highest KO percentage rate in the history of the heavyweight division?;Sports;Hard;Mike Tyson;Vitali Klitschko;Rocky Marciano;Ernie Shavers;2
+2455;Which sport isn't played on ice?;Sports;Hard;Curling;Bobsledding;Shorttrack;Lacrosse;4
+2456;What is not a kind of horse sport?;Sports;Hard;Voltige;Dressage;Vasning;Reining;3
+2457;How manny balls are there on a snooker table?;Sports;Hard;22;19;23;21;1
+2458;Who was the captain of Liverpool when they won the champions league in 2005?;Sports;Hard;Jamie Carragher;Steven Gerrard;Jerzy Dudek;Sami Hyypi;2
+2459;Who beat Liverpool in their first FA Cup Final in 1914?;Sports;Hard;Mancherster United;Everton;Burnley;Blackburn;3
+2460;When the first laws of cricket were written?;Sports;Hard;1474;1809;1774;1744;4
+3001;Which UK city were The Beatles from?;Entertainment;Easy;Manchester;Newcastle;Liverpool;London;3
+3002;Who was the original drummer of the popular rock group The Beatles?;Entertainment;Easy;John Densmore;Stu Sutcliffe;Ringo Starr;Pete Best;4
+3003;What was the name of the first Beatles movie?;Entertainment;Easy;A Hard Day's Night;Yesterday;Sgt. Pepper's Lonely Hearts Club Band;Help!;1
+3004;"Which of these bands recorded these songs: ""Highway To Hell"", ""You Shook Me All Night Long"" and ""Back In Black""?";Entertainment;Easy;Iron Maiden;AC/DC;Judas Priest;Black Sabbath;2
+3005;"""Whole Lotta Love"", ""Stairway To Heaven"" and ""Kashmir"", were from which of these very popular bands?";Entertainment;Easy;Black Sabbath;Led Zeppelin;Grateful Dead;Cream;2
+3006;Which symphony by Joseph Haydn has a sudden loud chord in the slow movement?;Entertainment;Easy;Sombre Symphony;Evening Symphony;Morning Symphony;Surprise Symphony;4
+3007;"Who is the main actress in the movie ""Breakfast at Tiffany's""?";Entertainment;Easy;Marilyn Monroe;Elizabeth Taylor;Meryl Streep;Audrey Hepburn;4
+3008;Who was Princess Diana better know as?;Entertainment;Easy;Supergirl;Catwoman;Wonderwoman;Batgirl;3
+3009;Who was the Catwoman?;Entertainment;Easy;Ashley Kyle;Selina Kyle;Maria Kyle;Kara Kyle;2
+3010;Who is the Spiderman?;Entertainment;Easy;Peter Parker;Bruce Wayne;Clark Kent;Berry Alen;1
+3011;Which Cartoon has a cat and mouse?;Entertainment;Easy;Tom and Jerry;Timmy and Spotty ;Alan and Sammy;The Simpsons;1
+3012;In Breaking Bed, what is the name of Walter's wife?;Entertainment;Easy;Carmen;Marie;Jane;Skyler;4
+3013;Which of these actors does NOT play a Cylon on Battlestar Galactica?;Entertainment;Easy;Grace Park;Tricia Helfer;Allesandro Juliani;Michael Hogan;3
+3014;"How many fingers (include thumb) do characters on ""The Simpsons"" have per hand?";Entertainment;Easy;4;5;3;6;1
+3015;In The Simpsons, who was the founder of Springfield?;Entertainment;Easy;Judah Springfield ;Jeremiah Springfield;Judea Springfield;Jebediah Springfield;4
+3016;Who is Mario's Brother?;Entertainment;Easy;Wario;Luigi;Toad;Bowser;2
+3017;Which of Bob Kane's strip-cartoon characters has the secret identity of millionaire playboy Bruce Wayne?;Entertainment;Easy;Joker;Penguin;Batman;Robin;3
+3018;On which instrument was Frederic Chopin a virtuoso?;Entertainment;Easy;Piano;Guitar;Flute;Violin;1
+3019;What is Harry Potter's house in Hogwarts?;Entertainment;Easy;Hufflepuff;Gryffindor;Ravenclaw;Slytherin;2
+3020;Who does Harry Potter met in his first school day and become his best friend?;Entertainment;Easy;Draco Malfoy;Hermione Granger;Albus Dumbledore;Ronald Weasley;4
+3021;What is the name of Harry Potter's owl?;Entertainment;Easy;Hedwig;Erol;Crookshanks;Dobby;1
+3022;By what name is American comic director, Allen Stewart Konigsberg better known?;Entertainment;Easy;Barry Allen;Steve Allen;Woody Allen;John Allen;3
+3023;Who won an Oscar for Best Actor in the movie Forrest Gump?;Entertainment;Easy;Bruce Willis;Tom Hanks;John Travolta;Morgran Freeman;2
+3024;Who is NOT Homer's son in The Simpsons?;Entertainment;Easy;Bart;Maggie;Lisa;Milhouse;4
+3025;What is the name of the Disney cartoon character that is the girlfriend to Donald Duck?;Entertainment;Easy;Daisy;Minie;Gloria;Brigitta;1
+3026;What is the name of Mickey Mouseïs dog?;Entertainment;Easy;Droopy McPoodle;Goofy;Pluto;Scooby Doo;3
+3027;What 2013 science fiction blockbuster starred Sandra Bullock and George Clooney?;Entertainment;Easy;Interstellar;Gravity;Star Trek: Into Darkness;Elysium;2
+3028;Orphan Black is a sci-fi television series filmed in which country?;Entertainment;Easy;Ireland;England;United States;Canada;4
+3029;"Who played the title character in the teen sitcom musical comedy ""Hannah Montana""?";Entertainment;Easy;Miley Cyrus;Selena Gomes;Miranda Cosgrove;Jennette McCurdy;1
+3030;Which Teenage Mutant Ninja Turtle always wears red bandanas?;Entertainment;Easy;Michelangelo;Leonardo;Raphael;Donatello;3
+3031;The game Bayonetta, stars a kickboxing woman dressed in what? ;Entertainment;Easy;A gown of roaches;The skins of those she has slains;Her own hair;Nothing;3
+3032;On the Xbox 360 controller, which of the following won?t you find?;Entertainment;Easy;A green button;A red O button;A joystick;A silver dome that glows green;2
+3033;Who is The Elven Sword-Wielding, Green Clothed Hero in the Legend of Zelda series?;Entertainment;Easy;Kain;Ganon;Link;Zelda;3
+3034;In what Series were Dracula and The Grim Reaper recurring Villians?;Entertainment;Easy;Soul Reaver;Nosferatu;Legend of Zelda;Castlevania;4
+3035;Who played Chandler's father on Friends?;Entertainment;Easy;Nathan Lane;Michael Douglas;Elliot Gould;Kathleen Turner;4
+3036;In Bewitched, what part of her body does Samantha twitch to practice magic?;Entertainment;Easy;Her Nose;Her Forehead;Her Ears;Her Bottom;1
+3037;Every episode of Seinfeld contains an image or reference to what superhero?;Entertainment;Easy;Spiderman;Plasticman;Superman;Batman;3
+3038;What movie popularized the phrase: May the Force be with you?;Entertainment;Easy;The Matrix;Stra Wars;Star Treka;E.T.;2
+3039;What TV show is credited for a massive surge of applications for courses in forensic science?;Entertainment;Easy;NCIS;X-Files;Law & Order;CSI;4
+3040;What was the first animated series made for prime-time network television?;Entertainment;Easy;Scooby-Doo;The Simpsons;The Flintstones;Felix the Cat;3
+3201;"What album by The Beatles includes the songs ""Come Together"" and ""Maxwell's Silver Hammer""?";Entertainment;Medium;Abbey Road;The White Album;Let It Be;Meet the Beatles;1
+3202;On April 10th 1970, which member of The Beatles publicly announced the breakup of the band?;Entertainment;Medium;Ringo Starr;Yoko Ono;Paul McCartney;John Lennon;3
+3203;In 1965, The Beatles performed in New York City, at what venue?;Entertainment;Medium;Yankee Stadium;Shea Stadium;The Beacon Theatre;Madison Square Garden;2
+3204;What was the last # 1song by The Beatles to hit the U.S charts?;Entertainment;Medium;Hey Jude;Ticket To Ride;Get Back;Long And Winding Road;4
+3205;"Which of these bands recorded these songs: ""Highway To Hell"", ""You Shook Me All Night Long"" and ""Back In Black""?";Entertainment;Medium;Poison;Quiet Riot;Twisted Sister;Motley Crue;4
+3206;"Which band recorded these songs: ""Dream On"", ""Sweet Emotion"" and ""Janie's Got A Gun""?";Entertainment;Medium;Kiss;Van Halen;Aerosmith;Bon Jovi;3
+3207;"This group was responsible for the hits ""Welcome To The Jungle"", ""Sweet Child O' Mine"" and ""November Rain"". Who were they?";Entertainment;Medium;Ted Nugent;Ozzy Osbourne;Ronnie James Dio;Alice Cooper;2
+3208;What age did Michael Jackson die?;Entertainment;Medium;50;51;49;48;1
+3209;"What state was ""The King of Pop"", Michael Jackson born in?";Entertainment;Medium;Michigan;Texas;Florida;Indiana;4
+3210;Johann Sebastian Bach's last completed work was a chorale prelude for which instrument? ;Entertainment;Medium;Organ;Harp;Violin;Flute;1
+3211;Which movie won Best Picture in 1976?;Entertainment;Medium;All the President's Men;Rocky;Taxi Driver;A Star is Born;2
+3212;Who plays Tony Soprano in The Sopranos?;Entertainment;Medium;Marlon Brando;Robert de Niro;Robert de Niro;Al Pacino;3
+3213;"In Battlestar Galatica, who killed Jean Barolay in ""Faith""?";Entertainment;Medium;Athena;A Six;A Three;A Four;2
+3214;Who helped contain the spread of a virus among the Cylons in Battlestar Galactica?;Entertainment;Medium;Roslin;Number 6;Baltar;Number 8;3
+3215;In Sponge Bob, who has killed squid word?;Entertainment;Medium;Patrick;Mr. Krabs;Sponge Bob;Patrisha;4
+3216;How many types of sword are in Minecraft?;Entertainment;Medium;4;5;6;7;1
+3217;Who is the main creator of Minecraft?;Entertainment;Medium;Joe;Notch;Tony;Nick;2
+3218;Who in Fifa 17 has the best defence?;Entertainment;Medium;Sergio Ramos;Boateng;Pepe;Tiago Silva;2
+3219;Star Wars Return of Jedi was originally titled as:;Entertainment;Medium;Revenge of the Jedi;Return of Death Star;Last Jedi;Rage of Jedi;1
+3220;Beethoven, Dvorak and Vaughan Williams all wrote the same number of symphonies. How many did they each write?;Entertainment;Medium;Seven;Eight;Nine;Ten;3
+3221;In Harry Potter, what is the street address of the Dursley home?;Entertainment;Medium;12 Grimmauld Place;4 Privet Drive;3 Little Hangleton;5 Godric's Hollow;2
+3222;In Harry Potter, which of these objects is not a component of the Deathly Hallows?;Entertainment;Medium;The Elder Wand;The Cloak of Invisibility;The Sorcerer's Stone;The Ressurection Stone;3
+3223;Who runs the store called the 'Leftorium' in the TV show The Simpsons?;Entertainment;Medium;Ned Flanders;Homer Simpson;Mr. Burns;Waylon Smithers;1
+3224;What was the name of the dog in the Tom and Jerry cartoons?;Entertainment;Medium;Nibbles;Tweety;Sylvester;Spike;4
+3225;On the sitcom Seinfeld what did Vandelay Industries sell?;Entertainment;Medium;Paper products;Latex products;Fresh fruit;Sausages;2
+3226;How many housing properties are on a Monopoly board?;Entertainment;Medium;18;20;22;24;3
+3227;"In Disney's ""The Little Mermaid"" what is the name of the human that Ariel falls in love with?";Entertainment;Medium;Prince Eric;Prince Edward;Prince Edmund;Prince Ulrich;1
+3228;Spaceship Earth is the icon for what amusement park that features technological innovation and international culture?;Entertainment;Medium;Universal Studios;Epicot Center;Magic Kingdom;BoardWalk;2
+3229;"What was the name of the kleptomaniac monkey in the Disney movie ""Aladdin""?";Entertainment;Medium;Gazeem;Iago;Abu;Rajah;3
+3230;Bruce Willis played a convict turned time traveler in what 1995 movie?;Entertainment;Medium;Armageddon;Pulp Fiction;Die Hard with a Vengeance;12 Monkeys;4
+3231;How many castaways were there on the American sitcom Gilligan's Island?;Entertainment;Medium;Six;Seven;Eight;Nine;2
+3232;"Which actress plays the female lead in the American crime thriller television series ""The Blacklist""?";Entertainment;Medium;Megan Boone;Jessica Olson;Simone Daniels;Davina Claire;1
+3233;What is the longest running U.S. primetime television show of all time?;Entertainment;Medium;The Family Guy;South Park;The Simpsons;Arthur;3
+3234;"Which actor played the captain of the Enterprise in the television series ""Star Trek the Next Generation""?";Entertainment;Medium;Will Wheaton;Brent Spiner;Jonathan Frakes;Patrick Stewart;4
+3235;The first person shooter video game Doom was first released in what year?;Entertainment;Medium;1992;1993;1994;1995;2
+3236;In what year did Nintendo release its first game console in North America?;Entertainment;Medium;1985;1984;1986;1983;1
+3237;What is the game name? You're Jack, and you enter an underwater city called Rapture. Defeat Big Daddies and kill or rescue Little Sisters.;Entertainment;Medium;Black Mesa;Blood II: Chosen;Bioshock;Alien vs. Predator;3
+3238;In the popular series Halo, what does the title refer to? ;Entertainment;Medium;The enemy fighters that disguise themselves as angels;Circular megastructures with their own ecosystem;The rings of the planet on which the game is set;The glow of characters who?ve been shot with prized green bullets;2
+3239;How many forms does The Final Boss of The Legend of Dragoon Have?;Entertainment;Medium;1;2;5;7;4
+3240;What is Know as the Hardest Game of all Time?;Entertainment;Medium;Ghosts and Goblins;Ninja Gaiden;Contra;Neverwinter Nights;1
+3241;What is the phrase on the UFO poster in Fox Mulder's office in X-Files?;Entertainment;Medium;The truth is out there;I want to believe;Trust no one;We are not alone;2
+3242;How does Charlie Harper die in Two and a Half Men?;Entertainment;Medium;Piano falls on him;Struck by a train;Falls of a skyscraper;Heart attack during sex;1
+3243;"What was the longest running of the ""fantasy sitcoms"" that dominated the airwaves in the mid 1960s?";Entertainment;Medium;The Munsters;The Addams Family;I Dream of Jeanine;Bewitched;4
+3244;What is the longest movie ever made?;Entertainment;Medium;The Cure for Insomnia;The Stand;Dances with Wolves;Hamlet;1
+3245;What actor played the school principal in E.T., only to have his scene cut when Spielberg decided that his presence would be too distracting?;Entertainment;Medium;Burt Lancaster;Marlon Brandon;Harrison Ford;Woody Allen;3
+3246;What is the first rule of Fight Club?;Entertainment;Medium;You do not talk about the fight club;Only two guys to a fight;If this is your 1st night at fight club, you have to fight;There are no rules;1
+3247;What superhero was born with the Curse of Kordax?;Entertainment;Medium;Captain Marvel;Hawkman;Ghost Rider;Aquaman;4
+3248;What super villain was created when Emil Blonsky accidentally exposed himself to a concentrated burst of gamma rays?;Entertainment;Medium;Doc Samson;Abomination;The Leader;Bi-Beast;2
+3249;Which of these superheroines was inhabited by the soul of an ancient Egyptian princess after attempting suicide?;Entertainment;Medium;Black Canary;Wonder Woman;Huntress;Hawkgirl;4
+3250;Who is Luke Cage's best friend and longtime partner in crime-fighting?;Entertainment;Medium;Iron Fist;Human Torch;Doctor Strange;Daredevil;1
+3251;What is the name of Doctor Strange's home in Greenwich Village?;Entertainment;Medium;Salem Center;Darkmoon;Sanctum Santorum;The Bowery;3
+3252;What book did Jesse Eisenberg purchase during rehearsals for The Social Network?;Entertainment;Medium;Sapiens;C++ for Dummies;The Structure of Scientific Revolution;The Facebook Effect;2
+3253;Who portrayed the character of Charlie Harper after Charlie Sheen was fired from Two and a Half Men?;Entertainment;Medium;Matt Leblanc;Rob Lowe;Kathy Bates;Ashton Kutcher;3
+3254;What country does The Hunger Games take place in?;Entertainment;Medium;Panem;Pangea;Narnia;Gondor;1
+3255;American Hustle is a fictionalized retelling of what famous sting operation?;Entertainment;Medium;Watergate;Operation Iceman;Operation G-Sting;ABSCAM;4
+3256;In Back to the Future, where does Doc Brown get the plutonium to power his time machine?;Entertainment;Medium;Russian Mob;Libyan Terrorists;The Future;Chinese Businessmen;2
+3257;What film character says: My mama always said life was like a box of chocolates. You never know what you're gonna get?;Entertainment;Medium;Forrest Gump;Norman Bates;The Joker;Tyler Durden;1
+3258;What was the name of Rocky Balboa's dog?;Entertainment;Medium;Sly;Champ;Butkus;Rawhide;3
+3259;What newspaper does Peter Parker work for?;Entertainment;Medium;The Daily Planet;The Daily News;The Daily Globe;The Daily Bugle;4
+3260;Which member of the Green Lantern Corps is essentially a giant head with arms and legs?;Entertainment;Medium;Abin Sur;Galius Zed;Larvox;Ch'p;2
+3401;What year were The Beatles formed?;Entertainment;Hard;1963;1962;1959;1958;3
+3402;"Who was the first member of The Beatles to wear his hair in the long shaggy style that came to be known as ""The Beatle Haircut""?";Entertainment;Hard;George Harrison;John Lennon;Paul McCartney;Stu Sutcliffe;4
+3403;"Who recorded these songs: ""Bawitdaba"", ""Cowboy"" and ""Only God Knows Why""?";Entertainment;Hard;Kid Rock;Limp Bizkit;Korn;Eminem;1
+3404;"What year did ""The Jackson 5"" have their first #1 hit song in the U.S.?";Entertainment;Hard;1971;1969;1970;1968;2
+3405;Which of these songs did not make it to the US No 1 Chart position?;Entertainment;Hard;Don't Stop 'til You Get Enough ;Rock with You;Rockin' Robin;Ben;3
+3406;How many solo number 1 singles had Michael Jackson?;Entertainment;Hard;12;11;10;13;2
+3407;In what key is the 'Unfinished Symphony' by Franz Schubert?;Entertainment;Hard;A minor;A major;B major;B minor;4
+3408;In Antonio Vivaldi's The Four Seasons, what is Summer often called?;Entertainment;Hard;Heatwave;Storm;Downpour;Shimmer;2
+3409;Which movie won Best Picture in 1992?;Entertainment;Hard;Scent of a Woman;A Few Good Men;Unforgiven;The Crying Game;3
+3410;Which female actress won the most Oscars?;Entertainment;Hard;Katharine Hepburn;Jodie Foster;Meryl Streep;Sandra Bullock;1
+3411;In Breaking Bed, who was Walt Jr.'s best friend?;Entertainment;Hard;Louis ;Tuco;Flynn;Mike;1
+3412;In Battlestar Galatica, what's the tail number of the viper Starbuck was piloting when she died and came back to life?;Entertainment;Hard;8575NC;8757NC;7757NC;5754NC ;2
+3413;How much dose Patrick from Sponge Bob weigh?;Entertainment;Hard;1000 ounces;220 Pounds;Does not have a weight;2 ounces;4
+3414;What is Sponge Bob's middle name?;Entertainment;Hard;Frank;Larry;Reginald;Joe;3
+3415;In Sponge Bob, who is Gary's 1st cousin?;Entertainment;Hard;Sponge Bob;Patrick;Larry;Patrisha;2
+3416;What year was Sponge Bob was born?;Entertainment;Hard;1993;1981;1986;1987;3
+3417;How many peaceful mobs are in the PC's Minecraft?;Entertainment;Hard;7;10;5;9;4
+3418;"Who produced and directed the American epic aviation war film ""Hell's Angels"", released in 1930?";Entertainment;Hard;Howard Hughes;Jean Renoir;Alfred Hitchcock;Victor Fleming;1
+3419;What is Hermione Granger's Patronus form?;Entertainment;Hard;Rabbit;Otter;Stag;Doe;2
+3420;Which of these Hogwarts Professors teaches Arithmancy?;Entertainment;Hard;Aurora Sinistra;Bathsheba Babbling;Septima Vector;Sybill Trelawney;3
+3421;Which song by Madonna featured in Moulin Rouge?;Entertainment;Hard;La Isla Bonita;Material Girl;Like a Prayer;Like a Virgin;4
+3422;Who won the Academy Award for best actor in 1979 for their performance in Kramer vs. Kramer?;Entertainment;Hard;Jack Lemmon;Dustin Hoffman;Roy Scheider;Al Pacino;2
+3423;In which year did Stanley Kubrick make his first feature-length film, Fear and Desire?;Entertainment;Hard;1953;1961;1968;1975;1
+3424;In the 1969 Ken Loach film 'Kes' what kind of bird was Kes?;Entertainment;Hard;Harrier;Kestrel;Merlin;Buzzard;2
+3425;In James Bond, what is Q's real surname?;Entertainment;Hard;Messervy;Prescott;Boothroyd;Major;3
+3426;What did villain Xenia Onatopp use to kill her victims in Goldeneye?;Entertainment;Hard;A gun;Stilleto shoes;Her bare hands;Her thighs;4
+3427;Which disaster movie featured the title track We May Never Love Like This Again?;Entertainment;Hard;Earthquake;The Poseidon Adventure;Airport;The Towering Inferno;4
+3428;Which of these was not one of the Marx Brothers?;Entertainment;Hard;Zammo;Chico;Gummo;Groucho;1
+3429;In which film by Ingmar Bergman does a man play chess against the Grim Reaper?;Entertainment;Hard;The Devil's Eye;The Seventh Seal;The Magician;Fanny and Alexander;2
+3430;Which movie won the Best Film Oscar in 1931?;Entertainment;Hard;Street Angel;7th Heaven;Wings;All Quiet On The Western Front;4
+3431;Who directed the 1927 science fiction film Metropolis?;Entertainment;Hard;Stanley Kubrick;Fritz Lang;Robert Sherwood;Arthur Hopkins;2
+3432;Whoopi Goldberg provided the voice for which character in the 1994 animated film The Lion King?;Entertainment;Hard;Nala;Pumbaa;Shenzi;Rafiki;3
+3433;"In the Disney movie ""Beauty and the Beast"", what is the name of Gaston's bumbling sidekick?";Entertainment;Hard;LeFou;Lumiere;Maurice;Monsieur D'Arque;1
+3434;Star Trek: The Next Generation originally aired in what year?;Entertainment;Hard;1986;1987;1988;1989;2
+3435;"Which actress played the genie in the American comedy sitcom ""I Dream of Jeannie""?";Entertainment;Hard;Ruby Dee;Dorothy Dandridge;Grace Kelly;Barbara Eden;4
+3436;Rod Serling created what famous science fiction television show?;Entertainment;Hard;ER;Doctor Who;The Twilight Zone;Star Trek;3
+3437;Which of the following is not a line from a video game?;Entertainment;Hard;You know the music, time to dance;That was too close, you were almost a Jill sandwich;The thing is, officer, I have a license to kill;It's time to kick ass and chew bubble gum...and I'm all out of gum;3
+3438;What was the first science fiction series on television?;Entertainment;Hard;Captain Video and His Video Rangers;Buck Rogers;Star Trek;Lost in Space;1
+3439;In 1981, what show became the lowest-rated series ever renewed for a second season?;Entertainment;Hard;Three's Company;Dynasty;Simon & Simon;Hill Street Blues;4
+3440;What year was the first American television picture broadcast?;Entertainment;Hard;1941;1926;1934;1917;2
+3441;In Alien (1979), the blue laser lights used in the alien ship's egg chamber were borrowed from what band?;Entertainment;Hard;Pink Floyd;Yes;The Who;Led Zeppelin;3
+3442;What superhero grew up on the planet Tamaran?;Entertainment;Hard;Starfire;Ultra Boy;Hawkgirl;The Silver Surfer;1
+3443;Who was the first costumed superhero?;Entertainment;Hard;Crimson Avenger;The Phantom;Superman;Arrow;2
+3444;What year was the first modern comic book printed?;Entertainment;Hard;1938;1917;1925;1933;4
+3445;What superhero gained his powers after being exposed to the Orb of Ra?;Entertainment;Hard;Hawkman;Doctor Strange;Metamorpho;Iron Fist;3
+3446;Who is Skaar?;Entertainment;Hard;Son of Thor;Son of Hulk;Son of Tarzan;Son of Wolverine;2
+3447;What is the best-selling comic book of all time?;Entertainment;Hard;Superman #75;Amazing Spiderman #583;X-Men #1;Batman #428;3
+3448;What famous film character quipped: Frankly, my dear, I don't give a damn?;Entertainment;Hard;Hannibal Lecter;Jack Sparrow;James Bond;Rhett Butler;4
+3449;How long did it take to render each frame (1/24th of a second) of the CGI scenes in the movie Avatar?;Entertainment;Hard;47 Hours;47 Minutes;47 Days;47 Seconds;1
+3450;What is Zeitgeist's super power?;Entertainment;Hard;He can eat anything;He can vomit on command;He can change colors;He can yell really loud;2
+3451;Who played Lex Luthor in the original 1978 Superman movie?;Entertainment;Hard;Jessie Eisenberg;Kevin Spacey;Michael Rosenbaum;Gene Hackman;4
+3452;What was the name of Rosco P. Coltrane's dog on The Dukes of Hazzard?;Entertainment;Hard;Ace;Bert;Flash;Killer;3
+3453;What TV show is famous for the catchphrase: Missed it by that much!?;Entertainment;Hard;The Simpsons;Get Smart;Green Acres;Galavant;2
+3454;What famous actor said: Here's looking at you, kid?;Entertainment;Hard;Al Pacino;George Burns;Bette Davis;Humphrey Bogart;4
+3455;What trophy from the Batcave first appeared in World's Finest #30?;Entertainment;Hard;Mr. Freeze's freeze gun;T. Rex;Giant Penny;Jason Todd's Robin costume;3
+3456;On the television series Bones, Seeley Booth is descended from an assassin who killed which political figure?;Entertainment;Hard;Martin Luther King Jr.;Indira Gandhi;Abraham Lincoln;John F. Kennedy;3
+3457;What character first appeared in Casper the Friendly Ghost #20?;Entertainment;Hard;Wendy the good witch;Richie Rich;Baby Huey;Hot stuff the litthe devil;1
+3458;In The Man in the Iron Mask (1998), which character dies defending Philippe?;Entertainment;Hard;Porthos;D'Artagnan;Aramis;Queen Anne;2
+3459;In The Martian, where were the Mars exterior scenes shot?;Entertainment;Hard;Australia;Namibia;Jordan;Wyming;3
+3460;What artist penciled the first appearance of Beta Ray Bill?;Entertainment;Hard;John Byrne;Todd McFarlane;Bill Sienkewicz;Walt Simonson;4
+4001;Who painted the Monalisa?;Arts;Easy;Michelangelo;Leonardo da Vinci;Sandro Botticelli;Giovanni Bellini;2
+4002;Who painted the Sistine Chapel ceiling;Arts;Easy;Leonardo da Vinci;Sandro Botticelli;Michelangelo;Titian;3
+4003;Who painted Primavera;Arts;Easy;Sandro Botticelli;Raphael;Lorenzo Ghiberti;Michelangelo;1
+4004;Who is credited as the designer of the many statues which decorated the Parthenon?;Arts;Easy;Scopas;Praxiteles;Hesiod;Phidias;4
+4005;What artist was struck in the face with a mallet by an envious rival, disfiguring him for life?;Arts;Easy;Raphael;Michelangelo;Titian;Rembrandt;2
+4006;To which artistic movement does Leonardo da Vinci belong;Arts;Easy;Renaissance;Impressionism;Cubism;Orphism;1
+4007;In which country can you see the sphinx?;Arts;Easy;Pakistan;Turkey;Egypt;Morocco;3
+4008;Which Dutch painter cut off part of his ear after a quarrel?;Arts;Easy;Rembrandt;Vincent Van Gogh;Jan van Goyen;Jacob van Ruisdael;2
+4009;In which Italian city can Michaelangelo's David be seen?;Arts;Easy;Rome;Pisa;Milan;Florence;4
+4010;What was the extravagant style of art and architecture that dominated Europe during most of the 17th century?;Arts;Easy;Renaissance;Baroque;Expressionism;Surrealism;2
+4011;Who painted The Persistence of Memory?;Arts;Easy;Salvador Dali;Piet Mondrian;Mark Rothko;Claude Monet;1
+4012;What is Claude Monet's art style?;Arts;Easy;Cubism;Expressionism;Impressionism;Realism;3
+4013;Which 17th century artist painted more than 60 self-portraits?;Arts;Easy;Johannes Vermeer;Andrea Pozzo;Charles Le Brun;Rembrandt;4
+4014;In front of which French art gallery is there a large glass pyramid designed by Leoh M Pei?;Arts;Easy;Mus‚e d'Orsay ;Mus‚e du Louvre;Mus‚e National Rodin;Mus‚e Marmottan-Claude Monet;2
+4015;What nationality was Picasso?;Arts;Easy;Spanish;German;Italian;Dutch;1
+4016;Who painted The Scream?;Arts;Easy;Vincent van Gogh;Edvard Munch;Otto Meuller;Wassily Kandinsky;2
+4017;What was the official diagnosis when van Gogh was hospitalized in 1888?;Arts;Easy;Anxiet and panic attacks;Obsessive-compulsive disorder;Acute mania with generalised delirium;Syphilis;3
+4018;What is the main visual element in Impressionist painting?;Arts;Easy;Pattern;Line;Shape;Color;4
+4019;What art movement employs aspects of mass culture, such as advertising, comic books and mundane cultural objects?;Arts;Easy;Pop Art;Deconstructivism;Art Deco;Les Automatistes;1
+4020;What art movement developed in the early 18th century as a reaction against the grandeur, symmetry, and strict regulations of the Baroque?;Arts;Easy;Panfuturism;Pancoco;Dada;Neoclassicism;2
+4021;The marble slab that eventually became Michelangelo's David was originally intended as a statue of what famous character?;Arts;Easy;Solomon;Cleopatra;Hercules;Medusa;3
+4022;What did Claude Monet's father want him to be?;Arts;Easy;Singer;Postmaster;Banker;Grocer;4
+4023;What famous artist was considered a suspect in the 1911 theft of the Mona Lisa?;Arts;Easy;Gustav Klimit;Pablo Picasso;Clude Monet;Pierre-Auguste Renoir;2
+4024;What is the only work of art Michelangelo ever signed?;Arts;Easy;The Pieta;The Last Judgment;David;Sistine Chapel ceiling;1
+4025;How long did it take Leonardo da Vinci to paint the Mona Lisa's lips?;Arts;Easy;12 months;12 days;12 years;12 weeks;3
+4026;What do you call the technique of allowing tones and colors to shade gradually into one another?;Arts;Easy;Cangiante;Unione;Chiaroscuro;Sfumato;4
+4027;In painting, what do you call the use of strong contrasts between light and dark?;Arts;Easy;Sfumato;Chiaroscuro;Unione;Cangiante;2
+4028;Any color plus white is a ____?;Arts;Easy;Shade;Value;Tone;Tint;4
+4029;Any color plus black is a ____?;Arts;Easy;Tone;Shade;Tint;Value;2
+4030;Any color plus grey is a ____?;Arts;Easy;Tone;Tint;Shade;Value;1
+4031;What is the term for a work of art made of two parts, usually hinged together?;Arts;Easy;Frottage;Bifold;Diptych;Triptych;3
+4032;What is the term for an artistic process that involves shooting ink at a blank piece of paper?;Arts;Easy;Bulletism;Inkism;Splashism;Blobism;1
+4033;What artist was sentenced to death by the Pope after killing a man?;Arts;Easy;Titian;Caravaggio;Albrecht Durer;Francisgo Goya;2
+4034;What American artist is known for paintings of flags?;Arts;Easy;Robert Ryman;Jeff Koons;Brice Marden;Jasper Jones;4
+4035;Who painted The Starry Night?;Arts;Easy;Pablo Picasso;Leonardo da Vinci;Vincent van Gogh;Jackson Pollock;3
+4036;Who painted The Son of Man?;Arts;Easy;Rene Magritte;Edvard Munch;Pablo Picasso;Grant Wood;1
+4037;Who painted The Birth of Venus?;Arts;Easy;Raphael;Sandro Botticelli;Pierre-Auguste Renoir;Georges Seurat;2
+4038;What Brazilian artist was known for his fireballs?;Arts;Easy;Caetano Veloso;Chico Cesar;Helio Oiticica;Gilberto Gil;3
+4039;What is the title of Leonardo da Vinci's portrait of Christ?;Arts;Easy;Couronne D''Epines;Portrait of a Man in Red Chalk;Joie du Seigneur;Salvator Mundi;4
+4040;What painting attracted more visitors to the Louvre Museum AFTER it was stolen?;Arts;Easy;Mona Lisa;The Scream;Poppy Flowers;Landscape with an Obelisk;1
+4201;What artist is best known for a painting of his mother?;Arts;Medium;James Abbot McNeil Whistler;Francisgo Goya;Johannes Vermer;Pierre-Auguste Renoir;1
+4202;What art movement was Yoko Ono associated with during the 1960s?;Arts;Medium;Futurism;Post-Impressionism;Fluxus;Dadaism;3
+4203;What group rebelled against the limitations of Impressionism?;Arts;Medium;Dadaists;Post Impressionists;Cubists;Expressionists;2
+4204;In 1908, what American artist painted elaborate murals in the newly completed Pennsylvania State Capitol Building?;Arts;Medium;James Abbot McNeil Whistler;George Caleb Bingham;Frederic Edwin Church;Edwin Austin Abey;4
+4205;Which of Picasso's paintings was considered immoral when it was first exhibited in 1916?;Arts;Medium;Bathers;Blue Nude;The Young Ladies of Avignon;Girl Before a Mirror;3
+4206;What object commonly appears in Picasso's paintings?;Arts;Medium;The sun;An Apple;A Clock;A Guitar;4
+4207;What prompted Pablo Picasso's famous Blue Period?;Arts;Medium;The death of a friend;World war I;A meeting with Edvard Munch;His failed marriage;1
+4208;What is the term for visible traces of an earlier painting beneath newer artwork on canvas?;Arts;Medium;Sinopia;Pochade;Pentimento;Sgraffito;3
+4209;Vermillion is a shade of which color?;Arts;Medium;Blue;Green;Yellow;Red;4
+4210;What quality is associated with peaches in Chinese art?;Arts;Medium;Wealth;Immorality;Illness;Fertility;2
+4211;What artist is known for having painted the Moulin Rouge?;Arts;Medium;Henry de Toulousse-Lautrec;Henri Rosseau;Camille Pissarro;Geroges Braque;1
+4212;In Leonardo da Vinci's Annunciation, who is depicted with the virgin Mary?;Arts;Medium;Joseph;Elizabeth;Gabriel;Jesus;3
+4213;Jackson Pollock was an influential abstract expressionist painter from what country?;Arts;Medium;United States;Canada;Mexico;Brazil;1
+4214;The Van Gogh museum is located in what European capital city?;Arts;Medium;Paris;London;Madrid;Amsterdam;4
+4215;The ancient Greek statue Ahprodite of Milos, better known as Venus de Milo, is currently on display in what museum?;Arts;Medium;Ipiranga Museum, Brazil;The Louvre, France;Britsh Museum, England;Museum of Modern Art, New York;2
+4216;Who painted a late 15th-century mural known as the Last Supper?;Arts;Medium;Michelangelo;Rembrandt;Leonardo da Vinci;Raphael;3
+4217;Which painter started the impressionist movement?;Arts;Medium;Pierre-Auguste Renoir;Camille Pissarro;Edgar Degas;Claude Monet;4
+4218;Who was the first Chinese writer to win the Nobel Prize for Literature?;Arts;Medium;Gao Xingjian;Ba Jin;Zhang Ailing;Cao Yu;1
+4219;What was the working title of Margaret Mitchell's 1936 novel Gone With the Wind?;Arts;Medium;The Rhett Butler Affair;The Plantation;Ba! Ba! Black Sheep;TaRA;3
+4220;What famous literary character offers this sage advice: Neither a borrower nor a lender be?;Arts;Medium;Tom Sawyer;Polonius;Albus Dumbledore;Ebeneezer Scrooge;2
+4221;What novel is set on a desert inhabited by giant sandworms?;Arts;Medium;Foundation;Do Androids Dream of Eletric Sheep;Stranger in a Strange Land;Dune;4
+4222;Which Stephen King novel takes place mostly in the fictional Overlook Hotel?;Arts;Medium;The Shining;Doctor Sleep;Salem's Lot;It;1
+4223;What is the best selling novel of all time?;Arts;Medium;Moby Dick;Don Quixote;Harry Potter and the Philosopher's Stone;The Hobbit;2
+4224;Which of Shakespeare's plays features a sorcerer named Prospero?;Arts;Medium;Twelfth Night;Macbeth;A Midsummer Night's Dream;The Tempest;4
+4225;Who is the protagonist of The Hunger Games?;Arts;Medium;Sarah Connor;Peeta Mellark;Katniss Everdeen;Hermione Granger;3
+4226;Which of her own characters did Agatha Christie call a detestable, bombastic, tiresome, egocentric little creep?;Arts;Medium;Sir Henry Clithering;Hercule Poirot;Parker Pyne;Miss Marple;2
+4227;What happened to the original manuscript of John Steinbeck's Of Mice and Men?;Arts;Medium;He left it on a bus;He burned it;His dog ate it;Hiss mistress stole it;3
+4228;What dystopian novel by George Orwell told of life in a future totalitarian state dominated by Big Brother?;Arts;Medium;Nineteen Eight-Four;Brave new world;Fahrenheit 451;Animal Farm;1
+4229;Which of the following characters appears in 3 of Shakespeare's plays?;Arts;Medium;Theseus;Antony;Caliban;Falstaff;4
+4230;Who is Leopold Bloom's wife in Ulysses?;Arts;Medium;Gerty;Molly;Milly;Mina;2
+4231;Who did C.S. Lewis base the protagonist of his Space Trilogy on?;Arts;Medium;Martin Luther;Alber Einstein;J. R. R Tokien;Theodore Roosevelt;3
+4232;What writer had more than 70 different pen names?;Arts;Medium;Laura Paine;James Patterson;Isaac Asimov;Jiro Akagawa;1
+4233;The U2 song Shadows and Tall Trees is taken from a chapter title in what famous book?;Arts;Medium;The Grapes of Wrath;The Jungle Book;The Catcher in the Rye;The Lord of the Flies;4
+4234;How many rejections did Louis L'Amour receive before being published?;Arts;Medium;2000;200;20;2;2
+4235;What novel begins with: Call me Ishmael?;Arts;Medium;Cold Mountain;Pride and Prejudice;Moby Dick;Invisible Man;3
+4236;In George Orwell's Animal Farm, what kind of animal is Boxer?;Arts;Medium;Cow;Horse;Pig;Puppy;2
+4237;Whose art style became known as Surrealism?;Arts;Medium;Francisco de Goya;Edgar Degas;Peter Paul Rubens;Salvador Dali;4
+4238;Michelangelo considered himself a sculptor first. Which was his favorite rock?;Arts;Medium;Quartz;Granite;Marble;Onyx;3
+4239;Who painted Fall of Men;Arts;Medium;Durer;Delacroix;Hockney;Gris;1
+4240;Which one of these items was invented by Leonardo da Vinci?;Arts;Medium;Kites;High heels;Gunpowder;Wine cork;2
+4241;Marvel Comics artist Jack Kirby was affectionately known by which nickname?;Arts;Medium;The Founder;The Artist;The Prophet;The King;4
+4242;Which types of paint does NOT use the color white?;Arts;Medium;Acrylic;Gouache;Watercolor;Casein;3
+4243;Which art movement claimed to be anti-art?;Arts;Medium;Dada;Cubism;Art Nouveau;Fauvism;1
+4244;Name the technique that places lines closely side by side:;Arts;Medium;Screentone;Hatching;Whittling;Pholage;2
+4245;Which one of these is not a well-known Indian sculptor?;Arts;Medium;Krishna Reddy;Ramkinkar Baij;Henry Monroe;Kumaradeva;3
+4246;To which artistic movement does Paul Gauguin?s The Yellow Christ belong?;Arts;Medium;Impressionissm;Bauhaus;Fauvism;Cloisonnism;4
+4247;What animal often symbolizes peace in art?;Arts;Medium;Duck;Dove;Dog;Deer;2
+4248;Which of these is a paint made from pigments and plastic?;Arts;Medium;Acrylic;Tempera;Gesso;Acetone;1
+4249;What does the Venus of Brassempouy represent?;Arts;Medium;An old man;An angel;A human figure;A woman's head;4
+4250;What was the subject of the earliest known paintings?;Arts;Medium;Landscapes;Flowers;Animals;Sports;3
+4251;Early photographers made their images on which of these materials?;Arts;Medium;Glass;Paper;Stone;Plastic;1
+4252;Which actor's autobiography was called 'My Wicked, Wicked Ways'?;Arts;Medium;Gary Cooper;Clark Gable;Errol Flynn;Leslie Howard;3
+4253;What was the surname of Alice who is remembered as the subject of Lewis Carroll's 'Alice In Wonderland' stories?;Arts;Medium;Liburn;Lowell;Linton;Liddell;4
+4254;Who wrote Ice Station Zebra?;Arts;Medium;A.J. Cronin;Alistair MacLean;Arthur Hailey;Arthur C Clarke;2
+4255;Which Shakespeare play is the 1956 film 'Forbidden Planet' loosely based on?;Arts;Medium;Othello;Romeo and Juliet;Henry V;The Tempest;4
+4256;In 2004, well-known baby photographer Anne Geddes collaborated with which Canadian songstress on a music and photographic project entitled 'Miracle'?;Arts;Medium;Celine Dion;Alanis Morissette;K.D. Lang;Shania Twain;1
+4257;In which country was the children's author Roald Dahl born?;Arts;Medium;Norway;Wales;England;Belgium;2
+4258;Which fictional pirate had the nicknames 'Barbecue' and 'The Sea Cook'?;Arts;Medium;Captain Pugwash;Captain Hook;Smee;Long John Silver;4
+4259;What was the title of the famous WH Auden poem used in the 1994 film 'Four Weddings and A Funeral'?;Arts;Medium;A Body of Words;The Wreck;Funeral Blues;In Memoriam;3
+4260;Who wrote the 1904 novel 'The Sea Wolf'?;Arts;Medium;Josef Conrad;Jack London;Herman Melvill;Wilkie Collins;2
+4401;How many paintings did Vincent Van Gogh sell during his lifetime?;Arts;Hard;1;27;193;842;1
+4402;What art critic coined the term impressionism?;Arts;Hard;John Ruskin;Roger Fry;Louis Leroy;Jacob Burckhardt;2
+4403;What offshoot of Cubism was influenced by the work of dye chemist EugŠne Chevreul?;Arts;Hard;Purism;Blobism;Fauvism;Orphism;4
+4404;What 19th century art critic famously compared Whistler's Nocturne in Black and Gold: The Falling Rocket to flinging a pot of paint in the public's face?;Arts;Hard;Lucy Lippard;Andre Malraux;John Ruskin;Kenneth Clark;3
+4405;Vincent van Gogh painted The Starry Night while?;Arts;Hard;Vacationing in the south of France;Attending his mother's funeral;Undergoing a treatment at a psychiatric hospital;On his honeymoon;3
+4406;Romanesque art prevailed during what time period?;Arts;Hard;3000 to 1000 B.C.;3rd to 5th century;1st to 3rd century;11th to 13th century;4
+4407;What artist drew the comic strip Bloom County from 1980 to 1989?;Arts;Hard;Richard Thompson;Berkley Breathed;Al Capp;Garry Trudeau;2
+4408;Which artist is credited with developing linear perspective?;Arts;Hard;Bunelleschi;Michelangelo;Leonardo da Vinci;Vincent van Gogh;1
+4409;What French sculptor created the Statue of Liberty?;Arts;Hard;Edgar Degas;Camille Claudel;Frederic Auguste Bartholdi;Jean-Antoine Houdon;3
+4410;Which artist created the sculpture The Thinker?;Arts;Hard;Donatello;Henry Moore;Camille Claudel;Auguste Rodin;4
+4411;What poet wrote the following lines: Two roads diverged in a wood, and I ... I took the one less traveled by?;Arts;Hard;Robert Frost;Walt Whitman;Langston Hughes;Emily Dickinson;1
+4412;What did Aldous Huxley and C. S. Lewis have in common?;Arts;Hard;They were both descended from Shakespeare;They married the same woman;They were born in the same town;They died in the same day;4
+4413;"What novel ends with the following line: It is a far better thing I do, than I have ever done; it is a far, far better rest that I go to than I have ever known?";Arts;Hard;Wuthering Heights;The Sound and the Fury;A Tale of Two Cities;Moby Dick;3
+4414;Who is the only author to publish books in 9 of the 10 Dewey Decimal categories?;Arts;Hard;Corin Tellado;Isaac Asimov;Stephen King;R. L. Stine;2
+4415;What poet wrote To Bedlam and Part Way Back (1960), Transformations (1971), and The Death Notebooks (1974)?;Arts;Hard;Anne Sexton;Sylvia Plath;Jane Hirshfield;E. E. Cummings;1
+4416;What was the original title of Ray Bradbury's Fahrenheit 451?;Arts;Hard;The Burning Books;Celsius 233;Fire in the Hole;The Fireman;4
+4417;What famous author was a descendant of one of the Salem witches?;Arts;Hard;Ann Rice;J. K. Rowling;Ray Bradbury;Stephen King;3
+4418;What author wrote his last novel in crayon?;Arts;Hard;Mark Twain;James Joyce;Bram Stoker;Kurt Vonnegut;2
+4419;"The phrase ""dark horse"" comes from what 1831 novel?";Arts;Hard;Boris Godunov;The Hunchbak of Notre-Dame;The Young Duke;Vivian Grey;3
+4420;What famous novelist once dated the daughter of playwright Eugene O'Neill?;Arts;Hard;F. Scott Fitzgerald;Ernest Hemingway;John Steinbeck;J. D. Salinger;4
+4421;Pablo Picasso?s real name is actually how many words long?;Arts;Hard;23;12;5;19;1
+4422;Which architect was responsible for the glass Pyramid at the Lourve?;Arts;Hard;Louis Le Vau;Leoh M Pei;Fran‡ois Mansart;Henri Labrouste;2
+4423;In which year was the Bahaus School of Design closed?;Arts;Hard;1914;1933;1952;1969;2
+4424;How long was the original shark used in Damian Hirst?s iconic work ?The Physical Impossibility of Death in the Mind of Someone Living??;Arts;Hard;14 feet;19 feet;23 feet;30 feet;1
+4425;Which artist created the concrete cast of the interior of an entire Victorian house?;Arts;Hard;Antony Gormley;Mona Hatoum;Rachel Whiteread;Edward Allington;3
+4426;Who designed the Vietnam Veterans Memorial?;Arts;Hard;Frank Lloyd Wright;Maya Lin;Henri Matisse;Frank Gehry;2
+4427;The writer Virginia Woolf was born on 25th January 1882. What was her real first name?;Arts;Hard;Adeline;Anne;Angela;Aretha;1
+4428;Which 1878 opera was alternatively entitled 'The Lass That Loved A Sailor'?;Arts;Hard;Iolanthe;The Gondoliers;The Pirates of Penzance;H. M. S. Pinafore;4
+4429;Who wrote the novel The Camomile Lawn?;Arts;Hard;Fay Wheldon;Mary Wesley;Joanna Trollope;Monica Dickens;2
+4430;Who created concrete and perfected the use of the arch in building? ;Arts;Hard;The Ancient Mesopotamians;The Ancient Greeks;The Ancient Romans;The Ancient Greeks and Romans;3
+4431;What kind of artwork was created by Keith Haring?;Arts;Hard;Street Art;Art with political and social messages;Stylized art;All the above;4
+4432;Christo and Jeanne-Claude are artist who:;Arts;Hard;Use fabric to create temporary artworks;Use fabric to build houses;Use art to exploit the environment;Use paint to create splatter paintings;1
+4433;What are the two main streams of abstraction?;Arts;Hard;Horizontal and vertical;Overt and covert ;Geometric and organic;All of the above;3
+4434;"J.M.W Turner's work, ""Rain, Steam, and Speed: The Western Railway"", sought to:";Arts;Hard;Capture the expression of paint;Capture the feeling of modern technology.;Confront his fear of modern technology;All of the above;2
+4435;What art movement marked the beginning interest in abstraction?;Arts;Hard;The Surrealists;The Cubist;The Post-Impressionists;The Impressionists;4
+4436;What other period embraces the classical qualities of Ancient Greek and Roman artwork?;Arts;Hard;The Renaissance;The Middle Ages;Modernism;Romanticism;1
+4437;What architectural elements do you associate with the classical style? ;Arts;Hard;Pediments on temples;Doric, ionic capitals and columns;Barrel vault;All of the above;4
+4438;What are the elements of design?;Arts;Hard;Line, emphasis, texture, unity, contrast, mass ;Emphasis, contrast, direction, unity, repetition, scale and proportion ;Line, shape, mass, space, value, color, texture ;Line, value, shape, form, color, texture and unity ;3
+4439;According to Vatican researcher Sabrina Sforza Galitzia, what does Leonardo da Vinci's The Last Supper predict?;Arts;Hard;Location of the Garden of Eden;An Apocalyptic Flood;First Contact with Aliens;Return of the Messiah;2
+4440;What artist sold a balloon dog for $58.4 million?;Arts;Hard;Jeff Koons;Jasper Johns;Christopher Wool;Gerhart Richard;1
+4441;What painter was married to Mexican artist Diego Rivera?;Arts;Hard;Frida Kahlo;Leonora Carrington;Clara Montalba;Tina Modotti;1
+4442;"Who painted ""Sunday Afternoon on the Island of La Grande Jatte"" (1884-86)?";Arts;Hard;Henri Martin;Vincent George;Georges Seurat;Henri Le Sidaner;3
+4443;What painter was summoned to Rome in 1481 to decorate the walls of the Sistine Chapel?;Arts;Hard;Michelangelo;Sandro Botticelli;Raphael;Ambrogio Lorenzetti;2
+4444;Who were the models that posed for Grant Wood's famous painting, American Gothic?;Arts;Hard;His parents;Professional models;His Neighbors;His Sister and His Dentist;4
+4445;What Salt Lake City-born cartoonist produced classic portrayals of the era of the flapper, bootlegging, and jazz?;Arts;Hard;Rube Goldberg;John Held Jr.;James Aikin;Pat Bagley;2
+4446;What is the term for reproducing a texture by laying paper over it and rubbing it with a pencil or crayon?;Arts;Hard;Frottage;Gouache;Impasto;Intaglio;1
+4447;What is the term for a three-dimensional composition made from a variety of traditionally non-artistic materials and objects?;Arts;Hard;Caboodle;Aggregation;Agglomeration;Assemblage;4
+4448;What famous painter began as a model for Renoir?;Arts;Hard;Cecilia Beaux;Marie Bracquemond;Suzanne Valadon;Marlene Dumas;3
+4449;What term did the artist Kurt Schwitters invent to describe his works made from scavenged fragments and objects?;Arts;Hard;Avant-Garde;Merz;Fluxus;Der Sturm;2
+4450;What French painter is credited with inventing the genre of fêtes galantes?;Arts;Hard;Nicolas Lancrete;Nicolas Poussin;Antoine Watteau;Edgad Degas;3
+4451;James McNeill Whistler's Arrangement in Grey and Black No.1 is better known by what other name?;Arts;Hard;Whistler's Mother;The Persistence of Memory;The Scream;Amercan Gothic;1
+4452;What artist first achieved notoriety through graffiti epigrams?;Arts;Hard;Jackson Pollock;Peter Angermann;Kevin Larmee;Jean-Michel Basquiat;4
+4453;What German artist had Emperor Rudolph II as a patron?;Arts;Hard;Hans von Aachen;Claus Bergen;Wilhelm von Diez;Jakob Alt;1
+4454;Which artist was a fashion editor and a painter in the school of magic realism?;Arts;Hard;Lee Miller;Alice Rahon;Bridget Bate Tichenor;Kay Sage;3
+4455;Which German painter was best known for his depictions of naval warfare in World War One?;Arts;Hard;Calr Eggers;Claus Bergen;Max Frey;August Haake;2
+4456;What Flemish Baroque painter is well known for his Counter-Reformation altarpieces?;Arts;Hard;Albrecht Durer;Jan van Eyck;Peter Paul Rubens;Sandeo Botticelli;3
+4457;What artist created a stained glass window for the United Nations?;Arts;Hard;Salvador Dali;Jean-Michel Basquiat;Pablo Picasso;Marc Chagall;4
+4458;What Jewish German-born American sculptor helped usher in the postminimal art movement in the 1960s?;Arts;Hard;Eva Hesse;Elizabeth Peyton;Sol Lewitt;Jenny Holzer;1
+4459;What artist created a 43 ft sculpture of a West Highland White Terrier puppy?;Arts;Hard;Jeff Koons;Richard Prince;Claes Oldenburg;Carole Feuerman;1
+4460;Coosje van Bruggen and Claes Oldenburg first collaborated on what sculpture?;Arts;Hard;A gian floppy disk;A giant shuttlecock;A giant melting popsicle;A giant flashlight;4

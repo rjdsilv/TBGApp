@@ -8,7 +8,7 @@
                 <asp:TextBox ID="CardNumberTextBox" CssClass="tbg-input" TextMode="SingleLine" runat="server" placeholder="Card Number" />
             </div>
             <div class="col-md-2 tbg-field-line">
-                <asp:Button ID="RetrieveQuestionButton" CssClass="tbg-button" Text="Retrieve Question" OnClick="RetrieveQuestionButton_Click" runat="server"  />
+                <asp:Button ID="RetrieveQuestionButton" CssClass="tbg-button" Text="Show Question" OnClick="RetrieveQuestionButton_Click" runat="server"  />
             </div>
             <div class="col-md-3 tbg-field-line">&nbsp;</div>
 

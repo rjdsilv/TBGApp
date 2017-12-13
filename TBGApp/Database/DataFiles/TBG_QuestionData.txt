@@ -132,7 +132,7 @@
 1432;What percentage of animal species are invertebrates?;Science;Hard;About 25%;About 50%;About 90%;About 95%;4
 1433;Which of these is actually a dinosaur?;Science;Hard;Mosasaur;Pterosaur;Microraptor;Phytosaur;3
 1434;What animal is the closest living relative of a human?;Science;Hard;Chimps;Gorillas;Orangutans;Gibbons;1
-1435;What kind of animal is a Platypus;Science;Hard;Reptile;Amphibian;Bird;Mamal;3
+1435;What kind of animal is a Platypus;Science;Hard;Reptile;Amphibian;Bird;Mamal;4
 1436;Which of these is NOT found in an animal cell?;Science;Hard;Mitochondria;Nucleus;Chloroplasts;Endoplasmic reticulum;3
 1437;What is "the powerhouse of the cell";Science;Hard;Golgi Apparatus;Mitochondria;Nucleus;Endoplasmic reticulum;2
 1438;What comes next? Kingdom, Phylum, Class,_____?;Science;Hard;Order;Genus;Species;Family;1

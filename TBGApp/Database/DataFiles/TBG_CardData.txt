@@ -16,7 +16,7 @@
 16;Steve Yzerman;Sports;Hard
 17;The Big Bang Theory;Entertainment;Easy
 18;Super Mario Bros.;Entertainment;Easy
-19;Matrix;Entertainment;Medium
+19;The Matrix;Entertainment;Medium
 20;The Simpsons;Entertainment;Medium
 21;Half Life 2;Entertainment;Medium
 22;Pulp Fiction;Entertainment;Hard

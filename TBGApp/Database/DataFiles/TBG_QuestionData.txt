@@ -40,7 +40,7 @@
 1040;What is a food chain?;Science;Easy;A list of ingredients within food;A pathway indicating where organisms can search for food in an ecosystem;A list of foods and where they come from;A pathway indicating the flow of energy in an ecosystem;4
 1201;Which is the second planet from the sun?;Science;Medium;Venus;Earth;Mercury;Mars;1
 1202;Phobos and Diemos are the moons of which planet in our solar system?;Science;Medium;Jupter;Earth;Mars;Uranus;3
-1203;How is the ?Big Bang Machine? called is another name for what?;Science;Medium;Neutron Star;Black Hole;Solar Explosion;The Large Hadron Collider;4
+1203;How is the Big Bang Machine called is another name for what?;Science;Medium;Neutron Star;Black Hole;Solar Explosion;The Large Hadron Collider;4
 1204;How many planets are in our solar system have rings?;Science;Medium;Four;Two;Six;Three;1
 1205;In 1610, who became the first person to observe Saturn's rings through a telescope?;Science;Medium;Isac Newton;Galileo Galilei;Johannes Kepler;Archimedes;2
 1206;What are the two inferior planets in our solar system?;Science;Medium;Pluto and Mercury;Jupter and Saturn;Mercury and Venus;Neptune and Pluto;3
@@ -139,8 +139,8 @@
 1439;To the nearest foot, the average human small intestine measures at what length?;Science;Hard;14 feet;15 feet;16 feet;17 feet;4
 1440;How many dwarf planets are in our solar system?;Science;Hard;5;4;3;2;1
 1441;Which or these planets Is not a dwarf planet?;Science;Hard;Pluto;Haumea;Titan;Makemake;3
-1442;The name ?ambush? refers to what group of jungle animals?;Science;Hard;Lions;Tigers;Monkeys;Deers;2
-1443;What lunar phase occurs when more than half of the moon ? but less than a full moon ? appears in the sky?;Science;Hard;Crescent;Full moon;First quarter;Gibbous;4
+1442;The name 'ambush' refers to what group of jungle animals?;Science;Hard;Lions;Tigers;Monkeys;Deers;2
+1443;What lunar phase occurs when more than half of the moon, but less than a full moon appears in the sky?;Science;Hard;Crescent;Full moon;First quarter;Gibbous;4
 1444;What survives impacting Earth's surface?;Science;Hard;A meteor;An asteroid;A metheorite;None of the above;3
 1445;What is produced from nitrogen via the 'Haber Process'?;Science;Hard;Ammonia;Nitrogen Gas;Nitric acid;Silver nitrate;1
 1446;Which is faster on a computer?;Science;Hard;SSD drives;RAM memory;Processor Cache memory;Hard Drive;3
@@ -189,7 +189,7 @@
 2029;In American football, how many points is a touchdown worth?;Sports;Easy;Three;Four;Five;Six;4
 2030;In the game of cricket which bird name means scoring no runs?;Sports;Easy;Turkey;Duck;Chicken;Owl;2
 2031;How many teams are there in the American National Football League?;Sports;Easy;30;31;32;33;3
-2032;What sport used the term ?home run? long before baseball?;Sports;Easy;Cricket;Football;Hockey;Golf;1
+2032;What sport used the term 'home run' long before baseball?;Sports;Easy;Cricket;Football;Hockey;Golf;1
 2033;Which country dominates Olympics basketball like no one else?;Sports;Easy;Spain;United States;Canada;Brazil;2
 2034;What number lies between 5 and 9 on a British dart board?;Sports;Easy;7;8;10;12;4
 2035;Before the NFL mandated the use of helmets in 1943, who was the last player not to use one?;Sports;Easy;Joe Montana;Tom Brady;Dick Plasman;Brett Favre;3
@@ -213,7 +213,7 @@
 2213;Which five-times Grand Slam tennis champion tested postive for a banned substance at the 2016 Australian Open?;Sports;Medium;Roger Federer;Maria Sharapova;Rafael Nadal;Serena Williams;2
 2214;Shaquille Rashaun O'Neal retired in 2011 from what sport?;Sports;Medium;Tennis;Soccer;Baseball;Basketball;4
 2215;The Grand Slam tournaments are the four most import annual events in which two sports?;Sports;Medium;Volleyball and Soccer;Tennis and Baseball;Golf and Tennis;Tennis and Basketball;3
-2216;El Clásico is the name given to football (soccer) matches between which two teams?;Sports;Medium;Milan and Inter Milan;Manchester United and Liverpool;Bayern Muenchen and Borussia Dortmund;Real Madrid and Barcelona;4
+2216;El Clasico is the name given to football (soccer) matches between which two teams?;Sports;Medium;Milan and Inter Milan;Manchester United and Liverpool;Bayern Muenchen and Borussia Dortmund;Real Madrid and Barcelona;4
 2217;Which hockey player has won the most Stanley Cups with 11 wins?;Sports;Medium;Henri Richard;Mike Bossy;Paul Coffey;Wayne Gretzky;1
 2218;Which team won the 2016 Super Bowl?;Sports;Medium;New England Patriots;Denver Broncos;Seattle Seahawks;New York Giants;2
 2219;Where did the sport of curling originate?;Sports;Medium;Sweden;Norway;Scotland;Ireland;3
@@ -343,13 +343,13 @@
 3023;Who won an Oscar for Best Actor in the movie Forrest Gump?;Entertainment;Easy;Bruce Willis;Tom Hanks;John Travolta;Morgran Freeman;2
 3024;Who is NOT Homer's son in The Simpsons?;Entertainment;Easy;Bart;Maggie;Lisa;Milhouse;4
 3025;What is the name of the Disney cartoon character that is the girlfriend to Donald Duck?;Entertainment;Easy;Daisy;Minie;Gloria;Brigitta;1
-3026;What is the name of Mickey Mouseïs dog?;Entertainment;Easy;Droopy McPoodle;Goofy;Pluto;Scooby Doo;3
+3026;What is the name of Mickey Mouse's dog?;Entertainment;Easy;Droopy McPoodle;Goofy;Pluto;Scooby Doo;3
 3027;What 2013 science fiction blockbuster starred Sandra Bullock and George Clooney?;Entertainment;Easy;Interstellar;Gravity;Star Trek: Into Darkness;Elysium;2
 3028;Orphan Black is a sci-fi television series filmed in which country?;Entertainment;Easy;Ireland;England;United States;Canada;4
 3029;Who played the title character in the teen sitcom musical comedy "Hannah Montana"?;Entertainment;Easy;Miley Cyrus;Selena Gomes;Miranda Cosgrove;Jennette McCurdy;1
 3030;Which Teenage Mutant Ninja Turtle always wears red bandanas?;Entertainment;Easy;Michelangelo;Leonardo;Raphael;Donatello;3
 3031;The game Bayonetta, stars a kickboxing woman dressed in what? ;Entertainment;Easy;A gown of roaches;The skins of those she has slains;Her own hair;Nothing;3
-3032;On the Xbox 360 controller, which of the following won?t you find?;Entertainment;Easy;A green button;A red O button;A joystick;A silver dome that glows green;2
+3032;On the Xbox 360 controller, which of the following won't you find?;Entertainment;Easy;A green button;A red O button;A joystick;A silver dome that glows green;2
 3033;Who is The Elven Sword-Wielding, Green Clothed Hero in the Legend of Zelda series?;Entertainment;Easy;Kain;Ganon;Link;Zelda;3
 3034;In what Series were Dracula and The Grim Reaper recurring Villians?;Entertainment;Easy;Soul Reaver;Nosferatu;Legend of Zelda;Castlevania;4
 3035;Who played Chandler's father on Friends?;Entertainment;Easy;Nathan Lane;Michael Douglas;Elliot Gould;Kathleen Turner;4
@@ -563,7 +563,7 @@
 4243;Which art movement claimed to be anti-art?;Arts;Medium;Dada;Cubism;Art Nouveau;Fauvism;1
 4244;Name the technique that places lines closely side by side:;Arts;Medium;Screentone;Hatching;Whittling;Pholage;2
 4245;Which one of these is not a well-known Indian sculptor?;Arts;Medium;Krishna Reddy;Ramkinkar Baij;Henry Monroe;Kumaradeva;3
-4246;To which artistic movement does Paul Gauguin?s The Yellow Christ belong?;Arts;Medium;Impressionissm;Bauhaus;Fauvism;Cloisonnism;4
+4246;To which artistic movement does Paul Gauguin's The Yellow Christ belong?;Arts;Medium;Impressionissm;Bauhaus;Fauvism;Cloisonnism;4
 4247;What animal often symbolizes peace in art?;Arts;Medium;Duck;Dove;Dog;Deer;2
 4248;Which of these is a paint made from pigments and plastic?;Arts;Medium;Acrylic;Tempera;Gesso;Acetone;1
 4249;What does the Venus of Brassempouy represent?;Arts;Medium;An old man;An angel;A human figure;A woman's head;4
@@ -580,7 +580,7 @@
 4260;Who wrote the 1904 novel 'The Sea Wolf'?;Arts;Medium;Josef Conrad;Jack London;Herman Melvill;Wilkie Collins;2
 4401;How many paintings did Vincent Van Gogh sell during his lifetime?;Arts;Hard;1;27;193;842;1
 4402;What art critic coined the term impressionism?;Arts;Hard;John Ruskin;Roger Fry;Louis Leroy;Jacob Burckhardt;2
-4403;What offshoot of Cubism was influenced by the work of dye chemist EugŠne Chevreul?;Arts;Hard;Purism;Blobism;Fauvism;Orphism;4
+4403;What offshoot of Cubism was influenced by the work of dye chemist Eugene Chevreul?;Arts;Hard;Purism;Blobism;Fauvism;Orphism;4
 4404;What 19th century art critic famously compared Whistler's Nocturne in Black and Gold: The Falling Rocket to flinging a pot of paint in the public's face?;Arts;Hard;Lucy Lippard;Andre Malraux;John Ruskin;Kenneth Clark;3
 4405;Vincent van Gogh painted The Starry Night while?;Arts;Hard;Vacationing in the south of France;Attending his mother's funeral;Undergoing a treatment at a psychiatric hospital;On his honeymoon;3
 4406;Romanesque art prevailed during what time period?;Arts;Hard;3000 to 1000 B.C.;3rd to 5th century;1st to 3rd century;11th to 13th century;4
@@ -590,18 +590,18 @@
 4410;Which artist created the sculpture The Thinker?;Arts;Hard;Donatello;Henry Moore;Camille Claudel;Auguste Rodin;4
 4411;What poet wrote the following lines: Two roads diverged in a wood, and I ... I took the one less traveled by?;Arts;Hard;Robert Frost;Walt Whitman;Langston Hughes;Emily Dickinson;1
 4412;What did Aldous Huxley and C. S. Lewis have in common?;Arts;Hard;They were both descended from Shakespeare;They married the same woman;They were born in the same town;They died in the same day;4
-4413;What novel ends with the following line: It is a far better thing I do, than I have ever done; it is a far, far better rest that I go to than I have ever known?;Arts;Hard;Wuthering Heights;The Sound and the Fury;A Tale of Two Cities;Moby Dick;3
+4413;What novel ends with the following line: It is a far better thing I do, than I have ever done. It is a far, far better rest that I go to than I have ever known?;Arts;Hard;Wuthering Heights;The Sound and the Fury;A Tale of Two Cities;Moby Dick;3
 4414;Who is the only author to publish books in 9 of the 10 Dewey Decimal categories?;Arts;Hard;Corin Tellado;Isaac Asimov;Stephen King;R. L. Stine;2
 4415;What poet wrote To Bedlam and Part Way Back (1960), Transformations (1971), and The Death Notebooks (1974)?;Arts;Hard;Anne Sexton;Sylvia Plath;Jane Hirshfield;E. E. Cummings;1
 4416;What was the original title of Ray Bradbury's Fahrenheit 451?;Arts;Hard;The Burning Books;Celsius 233;Fire in the Hole;The Fireman;4
 4417;What famous author was a descendant of one of the Salem witches?;Arts;Hard;Ann Rice;J. K. Rowling;Ray Bradbury;Stephen King;3
 4418;What author wrote his last novel in crayon?;Arts;Hard;Mark Twain;James Joyce;Bram Stoker;Kurt Vonnegut;2
-4419;The phrase ""dark horse"" comes from what 1831 novel?;Arts;Hard;Boris Godunov;The Hunchbak of Notre-Dame;The Young Duke;Vivian Grey;3
+4419;The phrase dark horse comes from what 1831 novel?;Arts;Hard;Boris Godunov;The Hunchbak of Notre-Dame;The Young Duke;Vivian Grey;3
 4420;What famous novelist once dated the daughter of playwright Eugene O'Neill?;Arts;Hard;F. Scott Fitzgerald;Ernest Hemingway;John Steinbeck;J. D. Salinger;4
-4421;Pablo Picasso?s real name is actually how many words long?;Arts;Hard;23;12;5;19;1
+4421;Pablo Picasso's real name is actually how many words long?;Arts;Hard;23;12;5;19;1
 4422;Which architect was responsible for the glass Pyramid at the Lourve?;Arts;Hard;Louis Le Vau;Leoh M Pei;Fran‡ois Mansart;Henri Labrouste;2
 4423;In which year was the Bahaus School of Design closed?;Arts;Hard;1914;1933;1952;1969;2
-4424;How long was the original shark used in Damian Hirst?s iconic work ?The Physical Impossibility of Death in the Mind of Someone Living??;Arts;Hard;14 feet;19 feet;23 feet;30 feet;1
+4424;How long was the original shark used in Damian Hirst's iconic work 'The Physical Impossibility of Death in the Mind of Someone Living'?;Arts;Hard;14 feet;19 feet;23 feet;30 feet;1
 4425;Which artist created the concrete cast of the interior of an entire Victorian house?;Arts;Hard;Antony Gormley;Mona Hatoum;Rachel Whiteread;Edward Allington;3
 4426;Who designed the Vietnam Veterans Memorial?;Arts;Hard;Frank Lloyd Wright;Maya Lin;Henri Matisse;Frank Gehry;2
 4427;The writer Virginia Woolf was born on 25th January 1882. What was her real first name?;Arts;Hard;Adeline;Anne;Angela;Aretha;1
@@ -611,7 +611,7 @@
 4431;What kind of artwork was created by Keith Haring?;Arts;Hard;Street Art;Art with political and social messages;Stylized art;All the above;4
 4432;Christo and Jeanne-Claude are artist who:;Arts;Hard;Use fabric to create temporary artworks;Use fabric to build houses;Use art to exploit the environment;Use paint to create splatter paintings;1
 4433;What are the two main streams of abstraction?;Arts;Hard;Horizontal and vertical;Overt and covert ;Geometric and organic;All of the above;3
-4434;"J.M.W Turner's work, ""Rain, Steam, and Speed: The Western Railway"", sought to:";Arts;Hard;Capture the expression of paint;Capture the feeling of modern technology.;Confront his fear of modern technology;All of the above;2
+4434;J.M.W Turner's work, Rain, Steam, and Speed: The Western Railway, sought to:";Arts;Hard;Capture the expression of paint;Capture the feeling of modern technology.;Confront his fear of modern technology;All of the above;2
 4435;What art movement marked the beginning interest in abstraction?;Arts;Hard;The Surrealists;The Cubist;The Post-Impressionists;The Impressionists;4
 4436;What other period embraces the classical qualities of Ancient Greek and Roman artwork?;Arts;Hard;The Renaissance;The Middle Ages;Modernism;Romanticism;1
 4437;What architectural elements do you associate with the classical style? ;Arts;Hard;Pediments on temples;Doric, ionic capitals and columns;Barrel vault;All of the above;4
@@ -619,7 +619,7 @@
 4439;According to Vatican researcher Sabrina Sforza Galitzia, what does Leonardo da Vinci's The Last Supper predict?;Arts;Hard;Location of the Garden of Eden;An Apocalyptic Flood;First Contact with Aliens;Return of the Messiah;2
 4440;What artist sold a balloon dog for $58.4 million?;Arts;Hard;Jeff Koons;Jasper Johns;Christopher Wool;Gerhart Richard;1
 4441;What painter was married to Mexican artist Diego Rivera?;Arts;Hard;Frida Kahlo;Leonora Carrington;Clara Montalba;Tina Modotti;1
-4442;"Who painted ""Sunday Afternoon on the Island of La Grande Jatte"" (1884-86)?";Arts;Hard;Henri Martin;Vincent George;Georges Seurat;Henri Le Sidaner;3
+4442;Who painted Sunday Afternoon on the Island of La Grande Jatte (1884-86)?;Arts;Hard;Henri Martin;Vincent George;Georges Seurat;Henri Le Sidaner;3
 4443;What painter was summoned to Rome in 1481 to decorate the walls of the Sistine Chapel?;Arts;Hard;Michelangelo;Sandro Botticelli;Raphael;Ambrogio Lorenzetti;2
 4444;Who were the models that posed for Grant Wood's famous painting, American Gothic?;Arts;Hard;His parents;Professional models;His Neighbors;His Sister and His Dentist;4
 4445;What Salt Lake City-born cartoonist produced classic portrayals of the era of the flapper, bootlegging, and jazz?;Arts;Hard;Rube Goldberg;John Held Jr.;James Aikin;Pat Bagley;2
@@ -627,7 +627,7 @@
 4447;What is the term for a three-dimensional composition made from a variety of traditionally non-artistic materials and objects?;Arts;Hard;Caboodle;Aggregation;Agglomeration;Assemblage;4
 4448;What famous painter began as a model for Renoir?;Arts;Hard;Cecilia Beaux;Marie Bracquemond;Suzanne Valadon;Marlene Dumas;3
 4449;What term did the artist Kurt Schwitters invent to describe his works made from scavenged fragments and objects?;Arts;Hard;Avant-Garde;Merz;Fluxus;Der Sturm;2
-4450;What French painter is credited with inventing the genre of fêtes galantes?;Arts;Hard;Nicolas Lancrete;Nicolas Poussin;Antoine Watteau;Edgad Degas;3
+4450;What French painter is credited with inventing the genre of fetes galantes?;Arts;Hard;Nicolas Lancrete;Nicolas Poussin;Antoine Watteau;Edgad Degas;3
 4451;James McNeill Whistler's Arrangement in Grey and Black No.1 is better known by what other name?;Arts;Hard;Whistler's Mother;The Persistence of Memory;The Scream;Amercan Gothic;1
 4452;What artist first achieved notoriety through graffiti epigrams?;Arts;Hard;Jackson Pollock;Peter Angermann;Kevin Larmee;Jean-Michel Basquiat;4
 4453;What German artist had Emperor Rudolph II as a patron?;Arts;Hard;Hans von Aachen;Claus Bergen;Wilhelm von Diez;Jakob Alt;1

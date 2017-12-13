@@ -51,8 +51,10 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
+                        <%--
                         <li><a runat="server" href="~/Questions">Questions</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
+                        --%>
                     </ul>
                 </div>
             </div>

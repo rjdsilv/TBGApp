@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace TBGApp.Database.Models
 {
@@ -31,6 +32,7 @@ namespace TBGApp.Database.Models
             Theme = fields[THEME_FIELD];
             Difficulty = fields[DIFFICULTY_FIELD];
             Alternatives = new List<Alternative>();
+
             Alternatives.Add(new Alternative(-1, fields[ALTERNATIVE_1_FIELD], 1, int.Parse(fields[CORRECT_ALTERNATIVE_FIELD])));
             Alternatives.Add(new Alternative(-1, fields[ALTERNATIVE_2_FIELD], 2, int.Parse(fields[CORRECT_ALTERNATIVE_FIELD])));
             Alternatives.Add(new Alternative(-1, fields[ALTERNATIVE_3_FIELD], 3, int.Parse(fields[CORRECT_ALTERNATIVE_FIELD])));
